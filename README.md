@@ -64,7 +64,7 @@ The rules might be changed later, but they work quite well so far for not making
     - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 - **Grinding Clause**
     - Grinding for experience is not allowed.
-    - Highest level in player's party $\le$ lowest level in enemies.
+    - Highest level in player's party <= lowest level in enemies.
 - **Tarot Clause**
     - No Chariot Tarot. 
     - No Tarot card stat bonus.
