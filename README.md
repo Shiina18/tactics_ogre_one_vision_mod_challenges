@@ -39,7 +39,7 @@ The rules might be changed later, but they work quite well so far for not making
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
         - All kinds of dragons are counted as one class.
-    - A team cannot have more than three units with special (unique) classes. Any wingedman and non-human is counted as special no matter what class he is.
+    - A team cannot have more than three units with special (unique) classes. Any wingedman and monster is counted as special no matter what class he is.
     - ~~Denam must be Warrior.  (I follow this rule personally)~~
 - **Weapon Clause**
     - The player cannot have "same" types of weapons on a team unless dual wielding. 
