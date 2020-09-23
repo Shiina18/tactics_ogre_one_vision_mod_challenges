@@ -61,6 +61,7 @@ The rules might be changed later, but they work quite well so far for not making
     - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - **Consumable Clause** - The number of times of using consumebles <= [N/2].
 - **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
+- **Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
     - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
