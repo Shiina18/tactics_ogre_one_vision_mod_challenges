@@ -2,6 +2,8 @@
 
 [Download page for the latest released OV mod patch](https://www.moddb.com/mods/one-vision1)
 
+You may want to read my game log [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/).
+
 I don't have much time recently, I will update further details later.
 
 This repo stores some saves just before interesting battles. In order to have fun, remember to read readme.txt attached for every save.
