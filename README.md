@@ -32,7 +32,11 @@ There are some off-the-shelf characters (first ten units) from my team.
 
 You may use the following cheatcodes (tweaking skill ranks etc.) to facilitate the team customization process.
 
-(I will update here and upload a tutorial later.)
+[Tutorial | Set skill ranks for TO OV mod](https://www.youtube.com/watch?v=JczBuTaADOI)
+
+You are suggested to play fair. Say, if normal enemies have rank 4 weapon skills, then set your weapon skills for newly recruited physical fighters rank 4 should be fair.
+
+(I will update here and upload more tutorials later.)
 
 ## Common Rules
 
