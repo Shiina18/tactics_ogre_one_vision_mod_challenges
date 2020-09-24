@@ -68,6 +68,7 @@ The rules might be changed later, but they work quite well so far for not making
 - **Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
+	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
     - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 - **Grinding Clause**
     - Grinding for experience is not allowed.
