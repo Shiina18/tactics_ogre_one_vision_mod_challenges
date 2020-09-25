@@ -61,7 +61,7 @@ The rules might be changed later, but they work quite well so far for not making
 - **Heal Clause** - The number of times of using healing magic, skills and weapons <= (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [n] is the integer part of n.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = (1+2) x [11/3] = 3 x 3 = 9. 
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), HP Infusion (Spellblade TP to HP), Time of Need (White Knight AOE TP to HP), Instill HP (Warlock), Kirin Blowgun, etc. 
-    - Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Feral Remedy (human HP to monster HP) is also not included. Drain Heart (Dark) and magic like that which drains HP from others are not included. 
+    - Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Feral Remedy (human HP to monster HP) is also not included. (Similarly other actions costing the user's HP are not included.) Drain Heart (Dark) and magic like that which drains HP from others are not included. 
     - Necros are counted as "Cleric" and N = (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - **Consumable Clause** - The number of times of using consumebles <= [N/2].
 - **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
