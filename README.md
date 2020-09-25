@@ -73,7 +73,7 @@ The rules might be changed later, but they work quite well so far for not making
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
 	- Exception: you are allowed to shutdown up to 2 units in one action (AOE), however you can only do this when there is no other shutdown enemy.
 	- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
-	- ~~If more than one enemy is shutdown on the battlefield, the player loses immediately.~~ (might be too restrictive)
+	- ~~If more than one enemy is shutdown on the battlefield, the player loses immediately.~~ (might be too restrictive, I will follow this personally.)
 	- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. So be careful.
 - **Grinding Clause**
     - Grinding for experience is not allowed.
