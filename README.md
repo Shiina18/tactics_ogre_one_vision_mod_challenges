@@ -68,9 +68,10 @@ The rules might be changed later, but they work quite well so far for not making
 - **Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
+	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown. And of course you are not allowed to get more than one enemy simultaneously (AOE).
 	- **If more than one enemy is shutdown on the battlefield, the player lose immediately.**
-    - Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
+	- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. So be careful.
 - **Grinding Clause**
     - Grinding for experience is not allowed.
     - Highest level in player's party <= lowest level in enemies.
