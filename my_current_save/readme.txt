@@ -31,3 +31,5 @@ Limit: 8 heals and 4 consumables
 I have finished the first stage of Barnicia Castle with only my old 10 crew. 
 7 Heals (+1 unnecessary heal in the end) and 3 Consumables.
 https://www.youtube.com/watch?v=LNx_sx6WEuU&t=3959s
+
+And here is Vital's solution: https://drive.google.com/file/d/1x3pALuCko64QP2ruYzx4D-KDUfJjl53u/view
