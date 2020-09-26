@@ -1,6 +1,6 @@
 0.963d
 
-There are at least 7 battles you can fight out now.
+There are 6 battles you can fight out now.
 
 - Lhazan Fortress. Rescue the dragonborn from a necro. Lv.21
 - Potd 3F. Buffed in 0.963d
