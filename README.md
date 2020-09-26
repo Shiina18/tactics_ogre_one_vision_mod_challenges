@@ -30,9 +30,13 @@ The folder path for saves is `\memstick\PSP\SAVEDATA`. Copy and paste the downlo
 
 There are some off-the-shelf characters (first ten units) from my team. 
 
-You may use the following cheatcodes (tweaking skill ranks etc.) to facilitate the team customization process.
+You may use the following cheatcodes to facilitate the team customization process, skip to any battle you like, and buff enemies, etc.
 
-[Tutorial | Set skill ranks for TO OV mod](https://www.youtube.com/watch?v=JczBuTaADOI)
+[Tutorials](https://www.youtube.com/watch?v=JczBuTaADOI&list=PLe9SLfIN-tRglEfG7RnN7vex68fE2asdD)
+
+- Set skill ranks
+- Skip unwanted battles
+- Set max HP
 
 You are suggested to play fair. Say, if normal enemies have rank 4 weapon skills, then set your weapon skills for newly recruited physical fighters rank 4 should be fair.
 
