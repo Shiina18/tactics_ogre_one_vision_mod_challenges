@@ -1,13 +1,13 @@
-0.963c
+0.963d
 
 There are at least 4 battles you can fight out now.
 
 - Lhazan Fortress. Rescue the dragonborn from a necro. Lv.21
-- Potd 3F.
-- Golyat. Cressida, Nybeth. Will be reworked in the next patch.
-- Barnicia Castle.
+- Potd 3F. Buffed in in 0.963d
+- Golyat. Cressida, Nybeth. Lv. 18. Reworked in 0.963d
+- Barnicia Castle. Lv.20
 
-I haven't played any of them through yet. 
+I haven't played all of them through yet. 
 So I will add more details and may present some challenges later 
 when I have time.
 
@@ -19,10 +19,12 @@ _L 0x00000012 0x00000000
 _L 0x402E7E94 0x00500002
 _L 0x000017e9 0x00000000
 
-I haven't tried it yet so don't know the difficulty. If you have some trouble, you may use the code below.
+## The Gate of Barnicia
 
-_C0 All Professions Level 19
-_L 0x402E7E90 0x00500002
-_L 0x00000013 0x00000000
-_L 0x402E7E94 0x00500002
-_L 0x00001ab9 0x00000000
+2020/9/26
+
+Limit: 8 heals and 4 consumables
+
+I have finished the first stage of Barnicia Castle with only my old 10 crew. 
+6 Heals (+1 unnecessary heal in the end) and 3 Consumables.
+https://www.youtube.com/watch?v=LNx_sx6WEuU&t=3959s
