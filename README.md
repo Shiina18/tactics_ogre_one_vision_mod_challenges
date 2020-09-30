@@ -52,7 +52,10 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+The rules are only based on games around level 18 for now.
+
 2020/9/27: Heal and consumable quotas are combined.
+2020/9/30: Supplement some minor rules.
 
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
@@ -77,7 +80,6 @@ Later changes will be tagged with corresponding timestamp.
     - Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
     - Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - ~~**Consumable Clause** - The number of times of using consumebles <= [N/2].~~ (2020/9/27: Heal and consumable quotas are combined.)
-- **Stop Ward Clause** - Equipping the skill Stop Ward is prohibited.
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
@@ -86,6 +88,11 @@ Later changes will be tagged with corresponding timestamp.
 	- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
 	- ~~If more than one enemy is shutdown on the battlefield, the player loses immediately.~~ (might be too restrictive, I will follow this personally.)
 	- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. So be careful.
+- **Skill Clause** 
+	- Equipping the skill Stop Ward is prohibited.
+	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
+- **Jewelry Clause**
+	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
 - **Grinding Clause**
     - Grinding for experience is not allowed.
     - Highest level in player's party <= lowest level in enemies.
