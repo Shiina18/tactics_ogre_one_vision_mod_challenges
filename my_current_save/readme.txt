@@ -30,8 +30,10 @@ Limit: 8 heals and 4 consumables
 
 I have finished the first stage of Barnicia Castle with only my old 10 crew. 
 7 Heals (+1 unnecessary heal in the end) and 3 Consumables.
-https://www.youtube.com/watch?v=LNx_sx6WEuU&t=3959s
+https://www.youtube.com/watch?v=LNx_sx6WEuU
 Showed many little tricks in this battle, quite satisfied.
+
+---
 
 And here is Vital's solution (though broke some rules in midgame): https://drive.google.com/file/d/1x3pALuCko64QP2ruYzx4D-KDUfJjl53u/view
 
@@ -59,9 +61,7 @@ She was surprisingly good as arrow bait, low defenses combined with 165 evasion 
 
 Storm call was oddly good, I can't quantify what impact it made but it felt like the enemy archers hit less than usual.
 
----
-
-Barnicia Courtyard
+## Barnicia Courtyard
 
 2020/10/3
 
@@ -74,3 +74,16 @@ It's easier than 1st stage. Finished it with the old 10 crew.
 However, I played much worse this time with tons of misplays.
 Showed how to make use of monsters and how to imprison a unit.
 https://www.youtube.com/watch?v=z32Z9mbIkWg
+
+## Barnicia Grand Staircase
+
+2020/10/4
+
+0.963e
+
+Heal quota is 12, and is run out of in mid-game. 
+I failed first time, and used a quick save in mid-game and tried the second time. 
+Finally achieved it with 10 units with only classes available in ch. 1. 
+This stage is harder so I had to use some powerful classes (terror knight and rogue) rather than running with my regular suboptimal crew.
+Some chariots are used, but I didn't abuse it to get better RNG or something like that.
+https://www.youtube.com/watch?v=qUtBRLZu0Hk

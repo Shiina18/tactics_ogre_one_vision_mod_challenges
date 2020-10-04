@@ -56,6 +56,7 @@ The rules are only based on games around level 18 for now.
 
 2020/9/27: Heal and consumable quotas are combined.
 2020/9/30: Supplement some minor rules.
+2020/10/4: Add Obstacle Clause.
 
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
@@ -91,6 +92,9 @@ The rules are only based on games around level 18 for now.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
+- **Obstacle Clause**
+	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to reach any of your own units. (2020/10/4)
+	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
 - **Jewelry Clause**
 	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
 - **Grinding Clause**
