@@ -92,8 +92,9 @@ The rules are only based on games around level 18 for now.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
-- **Obstacle Clause**
-	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to reach any of your own units. (2020/10/4)
+- **Obstacle Clause** (2020/10/4)
+	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to reach any of your own units. 
+	- "Reach any of your own units" means enemies can move to the tile next to at least one of your units with elev difference <= 2 (so that a melee attack can be conducted).
 	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
 - **Jewelry Clause**
 	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)

@@ -87,3 +87,8 @@ Finally achieved it with 10 units with only classes available in ch. 1.
 This stage is harder so I had to use some powerful classes (terror knight and rogue) rather than running with my regular suboptimal crew.
 Some chariots are used, but I didn't abuse it to get better RNG or something like that.
 https://www.youtube.com/watch?v=qUtBRLZu0Hk
+
+tips:
+- if an enemy archer used double shot when he ends his turn, 
+you may use any ranged attack to trigger his counterhit in order to release the double shot 
+so that the archer doesn't do too much damage in the next turn.
