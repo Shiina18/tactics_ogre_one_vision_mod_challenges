@@ -56,13 +56,14 @@ The rules are only based on games around level 18 for now.
 
 2020/9/27: Heal and consumable quotas are combined.
 2020/9/30: Supplement some minor rules.
-2020/10/4: Add Obstacle Clause.
+2020/10/4: Add Obstacle Clause, and expand class clause.
 
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
         - All kinds of dragons are counted as one class.
     - A team cannot have more than 2 units with special (unique) classes in a 10-unit team, and 3 special classes in a 12-unit team. Any wingedman, monster, angel knight and undead is counted as special no matter what class he is.
-    - ~~Denam must be Warrior.  (I follow this rule personally)~~
+    - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
+	- ~~Denam must be Warrior.~~  (I follow this rule personally)
 - **Weapon Clause**
     - The player cannot have "same" types of weapons on a team unless dual wielding. 
         - Sidegrades are counted as a different types.
