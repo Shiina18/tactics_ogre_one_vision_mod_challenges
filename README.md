@@ -70,7 +70,7 @@ The rules are only based on games around level 18 for now.
         - ~~Sidegrades are counted as a different types.~~
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
         - Boulders, Blowguns and Throwing Weapons are counted as different types.
-        - For example, if two unit have fists equipped, then other units can't use a fist. 
+        - For example, if two unit have fists equipped, then other units can't use a fist.
 - **Objection Clause**
     - If there are reinforcements,
         - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
