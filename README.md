@@ -116,6 +116,13 @@ _L 0x20025C34 0x34060000
 
 - ~~**Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.~~ (Fixed in 0.963d)
 
+## Misc
+
+### How to record videos
+
+- Use OBS.
+- Use the script obs_heal_counter.lua here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
+
 ## License
 
 This repo is licensed under the [MIT license](http://opensource.org/licenses/MIT).
