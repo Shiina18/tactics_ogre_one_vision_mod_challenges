@@ -52,7 +52,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2020/10/13: Modify Weapon Clause and Heal Clause.
+- 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
 - 2020/10/4: Add Obstacle Clause, and expand class clause.
 - 2020/9/30: Supplement some minor rules.
 - 2020/9/27: Heal and consumable quotas are combined.
@@ -105,6 +105,7 @@ The rules are only based on games around level 18 for now.
 - **Grinding Clause**
     - Grinding for experience is not allowed.
     - Highest level in player's party <= lowest level in enemies.
+	- Body swapping is not allowed (e.g. phylacteries). (2020/10/13)
 - **Tarot Clause**
     - No Chariot Tarot. 
     - No Tarot card stat bonus.
