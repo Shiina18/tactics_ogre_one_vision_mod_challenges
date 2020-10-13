@@ -62,7 +62,7 @@ The rules are only based on games around level 18 for now.
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
         - All kinds of dragons are counted as one class.
-    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, monster, angel knight and undead is counted as special no matter what class he is. (Whether monster and undead should be included has not been decided yet. Probably need a player who really pilot monster/undead team to say something.)
+    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, ~~monster,~~ angel knight and undead is counted as special no matter what class he is. (Whether monster and undead should be included has not been decided yet. Probably need a player who really pilot monster/undead team to say something.)
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
 - **Weapon Clause**
