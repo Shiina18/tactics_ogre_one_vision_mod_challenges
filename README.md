@@ -52,7 +52,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2020/10/13: Modify Weapon Clause
+- 2020/10/13: Modify Weapon Clause and Heal Clause.
 - 2020/10/4: Add Obstacle Clause, and expand class clause.
 - 2020/9/30: Supplement some minor rules.
 - 2020/9/27: Heal and consumable quotas are combined.
@@ -82,7 +82,8 @@ The rules are only based on games around level 18 for now.
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
-    - Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
+    - Half a heal. Consumables used in Art of War are counted as half a heal. (2020/10/13)
+	- Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - ~~**Consumable Clause** - The number of times of using consumebles <= [N/2].~~ (2020/9/27: Heal and consumable quotas are combined.)
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
