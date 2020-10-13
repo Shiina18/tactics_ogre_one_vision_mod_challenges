@@ -52,23 +52,25 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-The rules are only based on games around level 18 for now.
+- 2020/10/13: Modify Weapon Clause
+- 2020/10/4: Add Obstacle Clause, and expand class clause.
+- 2020/9/30: Supplement some minor rules.
+- 2020/9/27: Heal and consumable quotas are combined.
 
-2020/9/27: Heal and consumable quotas are combined.
-2020/9/30: Supplement some minor rules.
-2020/10/4: Add Obstacle Clause, and expand class clause.
+The rules are only based on games around level 18 for now.
 
 - **Class Clause**
     - The player cannot have two units with the same class on a team. 
         - All kinds of dragons are counted as one class.
-    - A team cannot have more than 2 units with special (unique) classes in a 10-unit team, and 3 special classes in a 12-unit team. Any wingedman, monster, angel knight and undead is counted as special no matter what class he is.
+    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, monster, angel knight and undead is counted as special no matter what class he is.
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
 - **Weapon Clause**
-    - The player cannot have "same" types of weapons on a team unless dual wielding. 
-        - Sidegrades are counted as a different types.
-        - Blowguns and Throwing Weapons are counted as different types.
-        - For example, if one unit uses a fist, then others can't use fists (however, a fist sidegrade can still be used).
+    - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
+        - ~~Sidegrades are counted as a different types.~~
+    - The player cannot have more than two units with the same type of weapon. (2020/10/13)
+        - Boulders, Blowguns and Throwing Weapons are counted as different types.
+        - For example, if two unit have fists equipped, then other units can't use a fist. 
 - **Objection Clause**
     - If there are reinforcements,
         - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
