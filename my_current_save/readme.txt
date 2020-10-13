@@ -92,3 +92,9 @@ tips:
 - if an enemy archer used double shot when he ends his turn, 
 you may use any ranged attack to trigger his counterhit in order to release the double shot 
 so that the archer doesn't do too much damage in the next turn.
+
+---
+
+2020/10/13
+
+Vital's video: https://drive.google.com/file/d/1kjYcxVO7VLGXm1f2KyLEzTS7G59ElIZ-/view?usp=sharing
