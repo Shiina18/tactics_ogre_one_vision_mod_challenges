@@ -35,6 +35,8 @@ Showed many little tricks in this battle, quite satisfied.
 
 ---
 
+Author: Vital
+
 And here is Vital's solution (though broke some rules in midgame): https://drive.google.com/file/d/1x3pALuCko64QP2ruYzx4D-KDUfJjl53u/view
 
 Vital's thoughts on the battle:
@@ -97,4 +99,33 @@ so that the archer doesn't do too much damage in the next turn.
 
 2020/10/13
 
-Vital's video: https://drive.google.com/file/d/1kjYcxVO7VLGXm1f2KyLEzTS7G59ElIZ-/view?usp=sharing
+Author: Vital
+
+video: https://drive.google.com/file/d/1kjYcxVO7VLGXm1f2KyLEzTS7G59ElIZ-/view?usp=sharing
+
+In this battle I tried out abusing spike skin by equiping Denam in a way that makes him less tanky than all the other frontliners and thus a priority target for the enemy AI.
+I then equiped him and the valkyrie in a way so Denam has slightly lower RT than the valkyrie so the valkyrie could always go after Denam and apply spike skin for his turn.
+The idea was Denam taking every attack on the frontline while spike skin is active, making my frontline nigh invulnerable.
+
+Syncing up rt with the valkyrie failed horribly from the very beginning.
+It's not very doable to do so and even with 3 spike skin users there were a lot of moments where denam was exposed to multiple enemy turns without spike skin.
+Not to mention how Denam sometimes simply isn't in range of the enemy while another teammate is.
+So the strategy can't quite make my frontline take almost no damage, however it still worked out quite well.
+Denam took a lot of arrows especially so a spike skin right before consecutive archer turns prevents a lot of damage.
+
+I gave Denam str gloves and 2h spear to make him a bigger target for spike skin.
+It turned out very well and Denam was the best damage dealer besides the knight commander while spike skin kept him alive while he was in position to deal damage.
+
+I replaced a wizard with a shaman for the spike skin strategy, shaman has a lot of utility but I did miss extend and conserve rt.
+I tried putting a weapon skill on her since she doesn't have ways to spend TP otherwise but those finishers were pretty anemic.
+
+I added another healer, which was pretty amazing.
+Familiar can't handle all the healing on her own and with a cleric as the main healer, familiar gets freed up to do other stuff, which is a lot more valuable than healing I think.
+The utility provided when she doesn't have to heal is pretty insane.
+Despite being fully geared for evasion, it's still necessary to position her away from potential arrows as 165 evasion just doesn't seem enough to consistently avoid them unfortunately.
+Selfless kiss is even better now that she's not the main healer so an urgent heal never got in the way of a well timed selfless kiss.
+
+I'm starting to like knight more and more.
+Multiple divine users to clear debuffs is an absolute must and knight fills that role amazingly well while providing defensive utility and area control.
+
+Absorb mp is amazing and it makes me want to try mana drain claws on spellblade instead of dagger as I didn't even bind any enemies with it.
