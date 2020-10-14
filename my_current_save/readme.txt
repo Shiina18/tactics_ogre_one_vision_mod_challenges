@@ -34,10 +34,10 @@ There is another save where Barnicia is finished and Catiua is recruited.
 Proposed challenge:
 Fight Iorumza Canyon and Boulder Sands simultaneously.
 1. Build two teams of 19 units in total, with no duplicate classes.
-	Denam + 9 units for each team. Following the common rules, there are up to 2 special classes on each team.
-	Use one team to fight Canyon and the other to fight Sands.
-	Denam is not allowed to be incap.
-2. Use cheatcodes to set all enemies ranks to 7. Refer to the tutorial in the main page.
+   Denam + 9 units for each team. Following the common rules, there are up to 2 special classes on each team.
+   Use one team to fight Canyon and the other to fight Sands.
+   Denam is not allowed to be incap.
+2. Use cheatcodes to set all enemies ranks to 6. Refer to the tutorial in the main page.
 3. Level 20 should be enough. 
 
 _C0 All Professions Level 20
