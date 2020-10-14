@@ -1,3 +1,5 @@
+**ULUS10565DATA00**
+
 There are 6 battles you can fight out now.
 
 - Lhazan Fortress. Rescue the dragonborn from a necro. Lv.21
@@ -19,6 +21,33 @@ _L 0x402E7E90 0x00500002
 _L 0x00000012 0x00000000
 _L 0x402E7E94 0x00500002
 _L 0x000017e9 0x00000000
+
+**barnicia_finished**
+
+There is another save where Barnicia is finished and Catiua is recruited.
+
+- Lhazan Fortress, Potd 3F, Golyat (Cressida)
+- Grimsby (Lindl)
+- Subsequent battles to Heim
+- 6 Fortress (not reworked yet)
+
+Proposed challenge:
+Fight Iorumza Canyon and Boulder Sands simultaneously.
+1. Build two teams of 19 units in total, with no duplicate classes.
+	Denam + 9 units for each team. Following the common rules, there are up to 2 special classes on each team.
+	Use one team to fight Canyon and the other to fight Sands.
+	Denam is not allowed to be incap.
+2. Use cheatcodes to set all enemies ranks to 7. Refer to the tutorial in the main page.
+3. Level 20 should be enough. 
+
+_C0 All Professions Level 20
+_L 0x402E7E90 0x00500002
+_L 0x00000014 0x00000000
+
+When using cheatcodes to set untrained skill ranks, the following are reference values.
+rank 4-6 for weapon, supporters like spellblades tend to have lower ranks like rank 4 since they have fewer chances to attack physically.
+rank 3 for elem aug
+rank 2-3 for parry/deflect 
 
 ## The Gate of Barnicia
 
