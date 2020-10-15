@@ -103,6 +103,8 @@ The rules are only based on games around level 18 for now.
 	  - For simplicity, you may imagine every enemy is a healthy human melee fighter with up 2 down 2 jump and can't get into water and lava, and if he can move to the tile next to at least one of your units and conduct a melee attack, then we say there is a "path".
 	  - As explained above, an enemy inflicted bind may not be able to "reach" your units, but if there is a path defined above, then it's legal.
 	  - Similarly, an undead may not stand on the tiles of sanctuary. While as long as there exists a path, then it's legal. See the example in the end of this section.
+	- When there is a river/lava spliting two (or several) lands A and B, then this rule applies to two lands separately and only works when there are both your units and enemies on one land.
+		- Say, your units start at land A and enemis start at land B. You are allowed to set obstacles freely on land A since there is no enemy here. However, if there is en enemy on land A, then you have to follow the rule above on land A.
 	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
 - **Jewelry Clause**
 	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
