@@ -52,6 +52,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2020/10/15: Clarify Obstacle Clause.
 - 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
 - 2020/10/4: Add Obstacle Clause, and expand class clause.
 - 2020/9/30: Supplement some minor rules.
@@ -96,9 +97,12 @@ The rules are only based on games around level 18 for now.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
-- **Obstacle Clause** (2020/10/4)
-	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to reach any of your own units. 
-	- "Reach any of your own units" means enemies can move to the tile next to at least one of your units with elev difference <= 2 (so that a melee attack can be conducted).
+- **Obstacle Clause** (2020/10/15)
+	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to "reach" any of your own units. 
+	  - "Reach any of your own units" means that for any enemy, there exists a path connecting at least one of your own units. A path is made of tiles (water and lava are not counted) that have adjacent elev difference <= 2.
+	  - For simplicity, you may imagine every enemy is a healthy human melee fighter with up 2 down 2 jump and can't get into water and lava, and if he can move to the tile next to at least one of your units and conduct a melee attack, then we say there is a "path".
+	  - As explained above, an enemy inflicted bind may not be able to "reach" your units, but if there is a path defined above, then it's legal.
+	  - Similarly, an undead may not stand on the tiles of sanctuary. While as long as there exists a path, then it's legal. See the example in the end of this section.
 	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
 - **Jewelry Clause**
 	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
@@ -117,6 +121,38 @@ _L 0x20025C34 0x34060000
 ```
 
 - ~~**Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.~~ (Fixed in 0.963d)
+
+### Obstacle Examples
+
+Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sactuary.
+
+E=2 means the elev of the tile that E stands is 2.
+
+```
+E 0 9 E=0
+0 0 9
+2 B 0 B=0
+0 A 0 A=0
+```
+
+Legal. Even if E is a wizard or is leaden so that he can't jump to 2, B is still legal since there is a "path" from B to A. 
+
+```
+E 0 9 E=0
+0 0 9
+3 B 0 B=0
+0 A 0 A=0
+```
+
+Illegal.
+
+```
+E S 9 E=0, S=0
+S A 0 S=0, A=0
+B 0 0 B=0
+```
+
+Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
 
 ## Misc
 

@@ -22,14 +22,22 @@ _L 0x00000012 0x00000000
 _L 0x402E7E94 0x00500002
 _L 0x000017e9 0x00000000
 
+Challenge: only use 10 units.
+
+Proposed Cressida challenge: 
+- Set all enemy skills to rank 6.
+- Set all 5 bosses max hp to 700. 
+
 **barnicia_finished**
 
 There is another save where Barnicia is finished and Catiua is recruited.
 
-- Lhazan Fortress, Potd 3F, Golyat (Cressida)
-- Grimsby (Lindl)
+- Lhazan Fortress, Potd 3F, Golyat (Cressida) -> Pirate
+- Grimsby (Lindl) -> Head Hunter
 - Subsequent battles to Heim
 - 6 Fortress (not reworked yet)
+
+It seems that I'd better finish the Cressida battle at first since it's only level 18.
 
 Proposed challenge:
 Fight Iorumza Canyon and Boulder Sands simultaneously.
