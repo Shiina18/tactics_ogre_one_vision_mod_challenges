@@ -28,6 +28,9 @@ Proposed Cressida challenge:
 - Set all enemy skills to rank 6.
 - Set all 5 bosses max hp to 700. 
 
+Another proposed Cressida challenge: 
+- Using divine magic or using undead units is forbidden.
+
 **barnicia_finished**
 
 There is another save where Barnicia is finished and Catiua is recruited.
