@@ -130,28 +130,34 @@ Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means al
 
 E=2 means the elev of the tile that E stands is 2.
 
+Zero is replaced by a space, and E=0 by default.
+
 ```
 E 0 9 E=0
-0 0 9
 2 B 0 B=0
 0 A 0 A=0
+```
+
+```
+E   9
+2 B   
+  A  
 ```
 
 Legal. Even if E is a wizard or is leaden so that he can't jump to 2, B is still legal since there is a "path" from B to A. 
 
 ```
-E 0 9 E=0
-0 0 9
-3 B 0 B=0
-0 A 0 A=0
+E   9
+3 B 
+  A 
 ```
 
 Illegal.
 
 ```
-E S 9 E=0, S=0
-S A 0 S=0, A=0
-B 0 0 B=0
+E S 9 
+S A 
+B 
 ```
 
 Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
