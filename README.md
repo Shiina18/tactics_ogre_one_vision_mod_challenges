@@ -52,6 +52,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2020/10/16: Ban octopus.
 - 2020/10/15: Clarify Obstacle Clause.
 - 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
 - 2020/10/4: Add Obstacle Clause, and expand class clause.
@@ -66,6 +67,7 @@ The rules are only based on games around level 18 for now.
     - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, ~~monster,~~ angel knight and undead is counted as special no matter what class he is. (Whether monster and undead should be included has not been decided yet. Probably need a player who really pilot monster/undead team to say something.)
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
+	- **Octopus is banned** since it's way too situational. (2020/10/16)
 - **Weapon Clause**
     - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
         - ~~Sidegrades are counted as a different types.~~
