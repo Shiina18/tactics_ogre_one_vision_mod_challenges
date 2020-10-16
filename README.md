@@ -44,6 +44,8 @@ You are suggested to play fair. Say, if normal enemies have rank 4 weapon skills
 
 ## Common Rules
 
+Common rules should always be followed.
+
 0.963d
 
 2020/9/26
