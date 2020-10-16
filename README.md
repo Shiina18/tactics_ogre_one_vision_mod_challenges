@@ -171,8 +171,8 @@ Legal. Even if E is undead and can't move to the tile next to A, B is legal sinc
 
 ### How to record videos
 
-- Use OBS.
-- Use the script obs_heal_counter.lua here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
+- Use [OBS](https://obsproject.com/).
+- Use the script [obs_heal_counter.lua](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/blob/master/obs_heal_counter.lua) here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
 
 ## License
 
