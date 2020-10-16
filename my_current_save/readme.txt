@@ -24,12 +24,15 @@ _L 0x000017e9 0x00000000
 
 Challenge: only use 10 units.
 
+Demon Slayer: Kimetsu no Yaiba
 Proposed Cressida challenge: 
 - Set all enemy skills to rank 6.
-- Set all 5 bosses max hp to 700. 
+- Set all 5 bosses max hp to 700. (double the squishy ones and buff others)
 
 Another proposed Cressida challenge: 
-- Using divine magic or using undead units is forbidden.
+- Using divine magic is forbidden. (There is Nybeth, so darkness prevails.)
+- Using undead units is forbidden. (Better not play with undead before Nybeth, the authority.)
+- Note that according to the skill clause, Sibyl can't equip fusil skill at level 18.
 
 **barnicia_finished**
 

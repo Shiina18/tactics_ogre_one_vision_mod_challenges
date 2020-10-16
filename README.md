@@ -70,7 +70,7 @@ The rules are only based on games around level 18 for now.
 	- **Octopus is banned** since it's way too situational. (2020/10/16)
 - **Weapon Clause**
     - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
-        - ~~Sidegrades are counted as a different types.~~
+        - ~~Sidegrades are counted as a different types.~~ (I will personally follow the old rule, which is more restrictive.)
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
         - Boulders, Blowguns and Throwing Weapons are counted as different types.
         - For example, if two unit have fists equipped, then other units can't use a fist.
