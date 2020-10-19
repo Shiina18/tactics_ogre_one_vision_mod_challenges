@@ -174,6 +174,16 @@ Legal. Even if E is undead and can't move to the tile next to A, B is legal sinc
 - Use [OBS](https://obsproject.com/).
 - Use the script [obs_heal_counter.lua](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/blob/master/obs_heal_counter.lua) here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
 
+### Rationality
+
+Many of my rules are adapted from the clauses for competitive pokemon 66 single.
+
+- Class clause is adapted from Species clause. (One unit per class)
+- Weapon clause is adapted from Item clause.
+- Shutdown clause is adapted from Sleep clause and Freeze clause.
+- Heal clause is trying to imitate the fact that there is PP limit in pokemon, and consumables can't be used in competitive pokemon.
+- Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource adavantage, and anything you can use may also be employed by the opponent.
+
 ## License
 
 This repo is licensed under the [MIT license](http://opensource.org/licenses/MIT).
