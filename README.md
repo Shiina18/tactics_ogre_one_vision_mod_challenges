@@ -54,6 +54,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2020/10/19: Ban slayer skills.
 - 2020/10/16: Restrict octopus and dragoon.
 - 2020/10/15: Clarify Obstacle Clause.
 - 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
@@ -70,7 +71,8 @@ The rules are only based on games around level 18 for now.
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
 	- **Octopus may not be used when there exist a square made of 3x3 water tiles.** (2020/10/16)
-	- **Dragoon may not be used when (# of beasts + # of dragons > 2) on enemy team.** (2020/10/16)
+	- ~Dragoon may not be used when (# of beasts + # of dragons > 2) on enemy team.~
+	- Dragoons can be used while slayer skills are banned. (2020/10/19)
 - **Weapon Clause**
     - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
         - ~~Sidegrades are counted as a different types.~~ (I will personally follow the old rule, which is more restrictive.)
@@ -102,6 +104,7 @@ The rules are only based on games around level 18 for now.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
+	- Using slayer skills is not allowed. (2020/10/19)
 - **Obstacle Clause** (2020/10/15)
 	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to "reach" any of your own units. 
 	  - "Reach any of your own units" means that for any enemy, there exists a path connecting at least one of your own units. A path is made of tiles (water and lava are not counted) that have adjacent elev difference <= 2.
