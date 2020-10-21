@@ -54,6 +54,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2020/10/21: Restrict anti-phantom weapons.
 - 2020/10/19: Ban slayer skills.
 - 2020/10/16: Restrict octopus and dragoon.
 - 2020/10/15: Clarify Obstacle Clause.
@@ -79,6 +80,7 @@ The rules are only based on games around level 18 for now.
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
         - Boulders, Blowguns and Throwing Weapons are counted as different types.
         - For example, if two unit have fists equipped, then other units can't use a fist.
+	- **When attacking undead units**, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). (2020/10/21)
 - **Objection Clause**
     - If there are reinforcements,
         - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
