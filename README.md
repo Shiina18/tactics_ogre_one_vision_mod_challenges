@@ -2,7 +2,7 @@
 
 [Download page for the latest released OV mod patch](https://www.moddb.com/mods/one-vision1)
 
-You may want to read my game log [here](https://shiina18.github.io/games/2020/07/17/game-log-for-to-ov-mod/).
+Check some useful pages [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki).
 
 I don't have much time recently, I will update further details later.
 
@@ -54,7 +54,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2020/10/21: Restrict anti-phantom weapons.
+- 2020/10/21: Restrict anti-undead weapons.
 - 2020/10/19: Ban slayer skills.
 - 2020/10/16: Restrict octopus and dragoon.
 - 2020/10/15: Clarify Obstacle Clause.
