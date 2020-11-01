@@ -54,6 +54,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2020/11/1: Restrict octopus.
 - 2020/10/21: Restrict anti-undead weapons.
 - 2020/10/19: Ban slayer skills.
 - 2020/10/16: Restrict octopus and dragoon.
@@ -71,7 +72,7 @@ The rules are only based on games around level 18 for now.
     - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, ~~monster,~~ angel knight and undead is counted as special no matter what class he is. (Whether monster and undead should be included has not been decided yet. Probably need a player who really pilot monster/undead team to say something.)
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
-	- **Octopus may not be used when there exist a square made of 3x3 water tiles.** (2020/10/16)
+	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section. (2020/11/1)
 	- ~Dragoon may not be used when (# of beasts + # of dragons > 2) on enemy team.~
 	- Dragoons can be used while slayer skills are banned. (2020/10/19)
 - **Weapon Clause**
@@ -134,7 +135,9 @@ _L 0x20025C34 0x34060000
 
 - ~~**Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.~~ (Fixed in 0.963d)
 
-### Obstacle Examples
+### Examples
+
+#### Obstacle 
 
 Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sactuary.
 
@@ -171,6 +174,29 @@ B
 ```
 
 Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
+
+#### Water
+
+W means water
+
+```
+W W W
+W W W
+W W W
+      W
+```
+
+Octopus is only allowed to enter the water tile in the right bottom.
+
+```
+W W W
+W W W
+W W W W
+      W
+```
+
+Octopus is not allowed to enter all the water tiles, since this time the right bottom is connected by water tiles to a square of 3x3 water tiles.
+
 
 ## Misc
 
