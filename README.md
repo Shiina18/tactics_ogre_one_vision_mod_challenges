@@ -54,10 +54,9 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2020/11/1: Restrict octopus.
+- 2020/11/1: Restrict octopus, and modify heal clause.
 - 2020/10/21: Restrict anti-undead weapons.
 - 2020/10/19: Ban slayer skills.
-- 2020/10/16: Restrict octopus and dragoon.
 - 2020/10/15: Clarify Obstacle Clause.
 - 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
 - 2020/10/4: Add Obstacle Clause, and expand class clause.
@@ -73,7 +72,6 @@ The rules are only based on games around level 18 for now.
     - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
 	- ~~Denam must be Warrior.~~  (I follow this rule personally)
 	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section. (2020/11/1)
-	- ~Dragoon may not be used when (# of beasts + # of dragons > 2) on enemy team.~
 	- Dragoons can be used while slayer skills are banned. (2020/10/19)
 - **Weapon Clause**
     - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
@@ -81,21 +79,21 @@ The rules are only based on games around level 18 for now.
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
         - Boulders, Blowguns and Throwing Weapons are counted as different types.
         - For example, if two unit have fists equipped, then other units can't use a fist.
-	- **When attacking undead units**, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). (2020/10/21)
+	- **When attacking undead units**, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). Basically only 1h hammer sidegrades and few end-game ones are legal. (2020/10/21)
 - **Objection Clause**
     - If there are reinforcements,
         - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
     - Else,
         - the boss can only be killed when other enemies are killed.
 - **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out.
-- **Heal Clause** - The number of times of using consumebles, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [n] is the integer part of n.
+- **Heal Clause** - The number of times of using consumables, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [y] is the integer part of y.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5. 
+	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3 or 5 copies of each consumable). Also, salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
     - Half a heal. Consumables used in Art of War are counted as half a heal. (2020/10/13)
 	- Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
-- ~~**Consumable Clause** - The number of times of using consumebles <= [N/2].~~ (2020/9/27: Heal and consumable quotas are combined.)
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
@@ -107,7 +105,7 @@ The rules are only based on games around level 18 for now.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
-	- Using slayer skills is not allowed. (2020/10/19)
+	- **Using slayer skills is not allowed.** (2020/10/19)
 - **Obstacle Clause** (2020/10/15)
 	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to "reach" any of your own units. 
 	  - "Reach any of your own units" means that for any enemy, there exists a path connecting at least one of your own units. A path is made of tiles (water and lava are not counted) that have adjacent elev difference <= 2.
@@ -132,8 +130,6 @@ _C1 No Tarot Stat Bonus
 _L 0x20025C28 0x34060000
 _L 0x20025C34 0x34060000
 ```
-
-- ~~**Sanctuary Clause** - A unit can't equip both sanctuary and rampart aura.~~ (Fixed in 0.963d)
 
 ### Examples
 
