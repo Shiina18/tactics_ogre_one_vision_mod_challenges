@@ -112,8 +112,8 @@ The rules are only based on games around level 18 for now.
 	  - For simplicity, you may imagine every enemy is a healthy human melee fighter with up 2 down 2 jump and can't get into water and lava, and if he can move to the tile on which at least one of your units stand (imagine your units don't exist at this moment), then we say there is a "path".
 	  - As explained above, an enemy inflicted bind may not be able to "reach" your units, but if there is a path defined above, then it's legal.
 	  - Similarly, an undead may not stand on the tiles of sanctuary. While as long as there exists a path, then it's legal. See the example in the end of this section.
-	- When there is a river/lava spliting two (or several) lands A and B, then this rule applies to two lands separately and only works when there are both your units and enemies on one land.
-		- Say, your units start at land A and enemis start at land B. You are allowed to set obstacles freely on land A since there is no enemy here. However, if there is en enemy on land A, then you have to follow the rule above on land A.
+	- When there is a river/lava splitting two (or several) lands A and B, then this rule applies to two lands separately and only works when there are both your units and enemies on one land.
+		- Say, your units start at land A and enemies start at land B. You are allowed to set obstacles freely on land A since there is no enemy here. However, if there is en enemy on land A, then you have to follow the rule above on land A.
 	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
 - **Jewelry Clause**
 	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
@@ -135,7 +135,7 @@ _L 0x20025C34 0x34060000
 
 #### Obstacle 
 
-Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sactuary.
+Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sanctuary.
 
 E=2 means the elev of the tile that E stands is 2.
 
@@ -193,6 +193,18 @@ W W W W
 
 Octopus is not allowed to enter all the water tiles, since this time the right bottom is connected by water tiles to a square of 3x3 water tiles.
 
+## Optional Rules
+
+2020/11/6
+
+If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
+
+These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. 
+
+- **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
+- **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
+- **Rank Clause** - Ranks of all skills of players are locked at rank 4, with enemies' locked at rank 8 (with the help of cheatcodes).
+
 
 ## Misc
 
@@ -209,7 +221,7 @@ Many of my rules are adapted from the clauses for competitive pokemon 66 single.
 - Weapon clause is adapted from Item clause.
 - Shutdown clause is adapted from Sleep clause and Freeze clause.
 - Heal clause is trying to imitate the fact that there is PP limit in pokemon, and consumables can't be used in competitive pokemon.
-- Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource adavantage, and anything you can use may also be employed by the opponent.
+- Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource advantage, and anything you can use may also be employed by the opponent.
 
 ## License
 
