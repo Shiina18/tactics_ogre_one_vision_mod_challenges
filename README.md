@@ -205,6 +205,14 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4, with enemies' locked at rank 8 (with the help of cheatcodes).
 
+And below are some other variant rules provided by Vital and Suppanut
+
+- no rampart aura/heavy armor/phalanx 
+- no elemental magic 
+- no divine or dark magic 
+- no dex weapons 
+- no str weapons
+
 
 ## Misc
 
