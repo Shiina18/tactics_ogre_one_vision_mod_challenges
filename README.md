@@ -199,7 +199,7 @@ Octopus is not allowed to enter all the water tiles, since this time the right b
 
 If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
 
-These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. 
+These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
 
 - **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
@@ -222,6 +222,7 @@ Many of my rules are adapted from the clauses for competitive pokemon 66 single.
 - Shutdown clause is adapted from Sleep clause and Freeze clause.
 - Heal clause is trying to imitate the fact that there is PP limit in pokemon, and consumables can't be used in competitive pokemon.
 - Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource advantage, and anything you can use may also be employed by the opponent.
+- Skill clause plus is trying to imitate the fact that there are only 4 moves on one pokemon.
 
 ## License
 
