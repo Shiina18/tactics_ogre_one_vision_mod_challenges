@@ -205,7 +205,8 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 
 - **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
-- **Rank Clause** - Ranks of all skills of players are locked at rank 4, with enemies' locked at rank 8 (with the help of cheatcodes).
+- **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
+  - Ranks of all skills of enemies are set rank 8. (optional)
 
 And below are some other variant rules provided by Vital and Suppanut
 
