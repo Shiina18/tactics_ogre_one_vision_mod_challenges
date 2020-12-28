@@ -203,6 +203,13 @@ _C1 No Tarot Stat Bonus
 _L 0x20025C28 0x34060000
 _L 0x20025C34 0x34060000
 ```
+
+可选规则
+
+选两条推荐的规则
+
+- 一个人只装备 5 个技能.
+- 每次战斗少上 2-3 个人. 比如最多出 12 人, 只上 9-10 个人.
   
 
 ### Examples
@@ -279,6 +286,7 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 8. (optional)
+- **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
 
 And below are some other variant rules provided by Vital and Suppanut
 
