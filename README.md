@@ -287,9 +287,10 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
   - Classes able to use Allheal 2 is banned: Cleric, Priest, Lord.
-  - Clasees having access to both status restoration Light Magic and Phalanx: Knight, White Knight, Paladin.
+  - Classes having access to both status restoration Light Magic and Phalanx: Knight, White Knight, Paladin.
   - Classes able to use Fearful Impact: Terror Knight, Knight Commander.
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+- **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
 
 And below are some other variant rules provided by Vital and Suppanut
 
