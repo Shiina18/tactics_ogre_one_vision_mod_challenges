@@ -56,18 +56,10 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2020/12/28: Specify grinding clause.
-
-- 2020/11/7: Charm is also counted as shutdown.
-
-- 2020/11/1: Restrict octopus, and modify heal clause.
-- 2020/10/21: Restrict anti-undead weapons.
-- 2020/10/19: Ban slayer skills.
-- 2020/10/15: Clarify Obstacle Clause.
-- 2020/10/13: Modify Grinding Clause, Weapon Clause and Heal Clause.
-- 2020/10/4: Add Obstacle Clause, and expand class clause.
-- 2020/9/30: Supplement some minor rules.
-- 2020/9/27: Heal and consumable quotas are combined.
+- 2020/12: Add Class Clause Plus. Specify grinding clause. 
+- 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
+- 2020/10: Restrict anti-undead weapons. Ban slayer skills. Clarify Obstacle Clause. Modify Grinding Clause, Weapon Clause and Heal Clause. Add Obstacle Clause, and expand class clause.
+- 2020/9: Supplement some minor rules. Heal and consumable quotas are combined.
 
 The rules are only based on games around level 18 for now.
 
@@ -293,6 +285,11 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
+- **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
+  - Classes able to use Allheal 2 is banned: Cleric, Priest, Lord.
+  - Clasees having access to both status restoration Light Magic and Phalanx: Knight, White Knight, Paladin.
+  - Classes able to use Fearful Impact: Terror Knight, Knight Commander.
+  - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 
 And below are some other variant rules provided by Vital and Suppanut
 
