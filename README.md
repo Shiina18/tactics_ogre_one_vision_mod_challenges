@@ -290,7 +290,7 @@ These are rules adapted from what I used in 2019, and at that time I even banned
   - Classes having access to both status restoration Light Magic and Phalanx: Knight, White Knight, Paladin.
   - Classes able to use Fearful Impact: Terror Knight, Knight Commander.
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
-  - The undead are banned. 
+  - The undead and Angel Knight are banned. 
 - **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
 
 And below are some other variant rules provided by Vital and Suppanut
