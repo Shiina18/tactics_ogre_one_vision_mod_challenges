@@ -289,7 +289,7 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
   - Lord is banned.
-  - Cleric and Priest are not banned, however, the light magic they can use is restricted. They can only use light magic one tier lower than that Familiar of the same level can use. For example, they may not use allheal, and they may only use heal 1 at level 22 since Familiar can only use heal 2 at level 22.
+  - Cleric and Priest are not banned, however, the heal magic they can use is restricted. They can only use heal one tier lower than that Familiar of the same level can use. For example, they may not use allheal, and they may only use heal 1 at level 22 since Familiar can only use heal 2 at level 22.
   - Classes having access to both status restoration Light Magic and Phalanx are banned: Knight, White Knight, Paladin.
   - Classes able to use Fearful Impact are banned: Terror Knight, Knight Commander.
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
