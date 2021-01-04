@@ -156,7 +156,7 @@ These are rules adapted from what I used in 2019, and at that time I even banned
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
   - The undead and Angel Knight are banned. 
 - **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
-- **Magic Clause** (optional) - You may have at most 3 spells for every lore of magic. (2021/1/4)
+- **Magic Clause** (optional) - Every unit may have at most 3 spells learned for each lore of magic. (2021/1/4)
   - "Magic" includes elem magic, draconic, aow, necro.
   - It is very inconvinient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
   - Given that with rank 4, weapon skills provide 2 finishers and Magic is the most flexible tool in the game, let's see how it goes with 3.
