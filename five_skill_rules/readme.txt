@@ -9,8 +9,8 @@ As convention, team detail (gears, skills) will be shown at the end of the video
 2021/1/4
 0.970a
 
-Player: 8 units (10 units at most), rank 4
-Enemy: 12 units, rank 4
+Player: 8 units (10 units at most), rank 4, lv. 20
+Enemy: 12 units, rank 4, lv. 20
 Heal quota: 8
 
 This is just a simple test to see how the rules work and if they need to be further refined.
