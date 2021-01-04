@@ -15,7 +15,7 @@ Heal quota: 8
 
 This is just a simple test to see how the rules work and if they need to be further refined.
 
-The team is quite rough now and can be further refined. For example, with Witch as a teammate, Absorb MP in Trickster is not necessary.
+The team is put into use for the first time, quite rough now and can be further refined. For example, with Witch as a teammate, Absorb MP in Trickster is not necessary, and I haven't thought about the buff plan at the first 2 turns.
 
 No unique class is used this time, and the only shutdown tool we have in the party is Archer's bow's finisher and Trickster's dagger's finisher.
 
@@ -23,6 +23,8 @@ There are also a few misplays in the video. An obvious one is that I overlooked 
 
 AOE Renweal is counted as half a heal now.
 
-It seems that Vampiric Kiss might be problematic, and we will see how it performs in later tests, then decide whether to restrict it or not.
-
 https://www.youtube.com/watch?v=76bozzEDels
+
+## Grimsby
+
+Let's see how the team perform...
