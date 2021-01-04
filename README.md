@@ -56,6 +56,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2021/1: Refine Heal Clause.
 - 2020/12: Add Class Clause Plus. Specify grinding clause. 
 - 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
 - 2020/10: Restrict anti-undead weapons. Ban slayer skills. Clarify Obstacle Clause. Modify Grinding Clause, Weapon Clause and Heal Clause. Add Obstacle Clause, and expand class clause.
@@ -86,12 +87,13 @@ The rules are only based on games around level 18 for now.
 - **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out. 
     - Since evac mechanism will be removed, unit has to use a shiftstone to teleport himself out before being killed in an early stage, which makes the game harder. Also, Black Plume might be useful. (2020/12/30)
 - **Heal Clause** - The number of times of using consumables, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [y] is the integer part of y.
-    - Using any consumable counts a heal. (2020/12/30)
+    - Using any consumable counts a heal.
 	- For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5. 
 	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3 or 5 copies of each consumable). Also, salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
-    - Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
+    - AOE Renweal is counted as half a heal. (2021/1/4)
+	- Half a heal. Actions that use TP and are not AOE are counted as half a heal, e.g. Feral Remedy. Kirin Blowgun is also counted as half.  (2020/9/27)
     - Half a heal. Consumables used in Art of War are counted as half a heal (bombs are still counted as one heal). (2020/10/13, 11/24)
 	- Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
@@ -131,6 +133,121 @@ _C1 No Tarot Stat Bonus
 _L 0x20025C28 0x34060000
 _L 0x20025C34 0x34060000
 ```
+  
+## Optional Rules
+
+2020/11/6
+
+If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
+
+These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
+
+- **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
+- **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
+- **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
+  - Ranks of all skills of enemies are set rank 8. (optional)
+- **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
+- **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
+  - Lord is banned.
+  - ~~Cleric and Priest are not banned, however, the heal magic they can use is restricted. They can only use heal one tier lower than that Familiar of the same level can use. For example, they may not use allheal, and they may only use heal 1 at level 22 since Familiar can only use heal 2 at level 22.~~
+  - Cleric and Priest are banned.
+  - Classes having access to both status restoration Light Magic and Phalanx are banned: Knight, White Knight, Paladin.
+  - Classes able to use Fearful Impact are banned: Terror Knight, Knight Commander.
+  - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+  - The undead and Angel Knight are banned. 
+- **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
+
+And below are some other variant rules provided by Vital and Suppanut
+
+- no rampart aura/heavy armor/phalanx 
+- no elemental magic 
+- no divine or dark magic 
+- no dex weapons 
+- no str weapons
+
+
+## Misc
+
+### How to record videos
+
+- Use [OBS](https://obsproject.com/).
+- Use the script [obs_heal_counter.lua](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/blob/master/obs_heal_counter.lua) here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
+- **Remember to show your team detail (gears, skills) at the end of the video.**
+
+### Rationality
+
+Many of my rules are adapted from the clauses for competitive pokemon 66 single.
+
+- Class clause is adapted from Species clause. (One unit per class)
+- Weapon clause is adapted from Item clause.
+- Shutdown clause is adapted from Sleep clause and Freeze clause.
+- Heal clause is trying to imitate the fact that there is PP limit in pokemon, and consumables can't be used in competitive pokemon.
+- Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource advantage, and anything you can use may also be employed by the opponent.
+- Skill clause plus is trying to imitate the fact that there are only 4 moves on one pokemon.
+
+## Examples
+
+### Obstacle 
+
+Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sanctuary.
+
+E=2 means the elev of the tile that E stands is 2.
+
+Zero is replaced by a space, and E=0 by default.
+
+```
+E 0 9 E=0
+2 B 0 B=0
+0 A 0 A=0
+```
+
+```
+E   9
+2 B   
+  A  
+```
+
+Legal. Even if E is a wizard or is leaden so that he can't jump to 2, B is still legal since there is a "path" from B to A. 
+
+```
+E   9
+3 B 
+  A 
+```
+
+Illegal.
+
+```
+E S 9 
+S A 
+B 
+```
+
+Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
+
+### Water
+
+W means water
+
+```
+W W W
+W W W
+W W W
+      W
+```
+
+Octopus is only allowed to enter the water tile in the right bottom.
+
+```
+W W W
+W W W
+W W W W
+      W
+```
+
+Octopus is not allowed to enter all the water tiles, since this time the right bottom is connected by water tiles to a square of 3x3 water tiles.
+
+
 
 ## 通用规则 (中文版)
 
@@ -210,119 +327,6 @@ _L 0x20025C34 0x34060000
 
 - 一个人只装备 5 个技能.
 - 每次战斗少上 2-3 个人. 比如最多出 12 人, 只上 9-10 个人.
-  
-
-### Examples
-
-#### Obstacle 
-
-Numbers stand for the elev of tiles. B means obstacle. E means enemy. A means ally. S means sanctuary.
-
-E=2 means the elev of the tile that E stands is 2.
-
-Zero is replaced by a space, and E=0 by default.
-
-```
-E 0 9 E=0
-2 B 0 B=0
-0 A 0 A=0
-```
-
-```
-E   9
-2 B   
-  A  
-```
-
-Legal. Even if E is a wizard or is leaden so that he can't jump to 2, B is still legal since there is a "path" from B to A. 
-
-```
-E   9
-3 B 
-  A 
-```
-
-Illegal.
-
-```
-E S 9 
-S A 
-B 
-```
-
-Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
-
-#### Water
-
-W means water
-
-```
-W W W
-W W W
-W W W
-      W
-```
-
-Octopus is only allowed to enter the water tile in the right bottom.
-
-```
-W W W
-W W W
-W W W W
-      W
-```
-
-Octopus is not allowed to enter all the water tiles, since this time the right bottom is connected by water tiles to a square of 3x3 water tiles.
-
-## Optional Rules
-
-2020/11/6
-
-If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
-
-These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
-
-- **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
-- **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
-- **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
-  - Ranks of all skills of enemies are set rank 8. (optional)
-- **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
-- **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
-  - Lord is banned.
-  - ~~Cleric and Priest are not banned, however, the heal magic they can use is restricted. They can only use heal one tier lower than that Familiar of the same level can use. For example, they may not use allheal, and they may only use heal 1 at level 22 since Familiar can only use heal 2 at level 22.~~
-  - Cleric and Priest are banned.
-  - Classes having access to both status restoration Light Magic and Phalanx are banned: Knight, White Knight, Paladin.
-  - Classes able to use Fearful Impact are banned: Terror Knight, Knight Commander.
-  - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
-  - The undead and Angel Knight are banned. 
-- **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
-
-And below are some other variant rules provided by Vital and Suppanut
-
-- no rampart aura/heavy armor/phalanx 
-- no elemental magic 
-- no divine or dark magic 
-- no dex weapons 
-- no str weapons
-
-
-## Misc
-
-### How to record videos
-
-- Use [OBS](https://obsproject.com/).
-- Use the script [obs_heal_counter.lua](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/blob/master/obs_heal_counter.lua) here. The script is provided by Vital, who adapted the source [here](https://gist.github.com/tid-kijyun/477c723ea42d22903ebe6b6cee3f77a1). See [here](https://youtu.be/w2K4mPrIqaE) for a tutorial. 
-
-### Rationality
-
-Many of my rules are adapted from the clauses for competitive pokemon 66 single.
-
-- Class clause is adapted from Species clause. (One unit per class)
-- Weapon clause is adapted from Item clause.
-- Shutdown clause is adapted from Sleep clause and Freeze clause.
-- Heal clause is trying to imitate the fact that there is PP limit in pokemon, and consumables can't be used in competitive pokemon.
-- Tarot clause and Grinding clause is just for fair game since in a competitive context, you won't have stat/resource advantage, and anything you can use may also be employed by the opponent.
-- Skill clause plus is trying to imitate the fact that there are only 4 moves on one pokemon.
 
 ## License
 
