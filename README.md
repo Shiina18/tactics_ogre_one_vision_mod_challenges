@@ -56,7 +56,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2021/1: Refine Heal Clause.
+- 2021/1: Refine Heal Clause and add an optional rule.
 - 2020/12: Add Class Clause Plus. Specify grinding clause. 
 - 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
 - 2020/10: Restrict anti-undead weapons. Ban slayer skills. Clarify Obstacle Clause. Modify Grinding Clause, Weapon Clause and Heal Clause. Add Obstacle Clause, and expand class clause.
@@ -156,6 +156,11 @@ These are rules adapted from what I used in 2019, and at that time I even banned
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
   - The undead and Angel Knight are banned. 
 - **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
+- **Magic Clause** (optional) - You may have at most 3 spells for every lore of magic. (2021/1/4)
+  - "Magic" includes elem magic, draconic, aow, necro.
+  - It is very inconvinient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
+  - Given that with rank 4, weapon skills provide 2 finishers and Magic is the most flexible tool in the game, let's see how it goes with 3.
+  - It should be a gentle nerf on something like divine magic and draconic magic. Hopefully, some other tools overshadowed before will become useful.
 
 And below are some other variant rules provided by Vital and Suppanut
 
