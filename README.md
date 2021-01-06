@@ -158,7 +158,6 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Magic Clause** (optional) - Every 2 spells take up 1 slot. Hopefully, some other tools overshadowed before will become useful. (2021/1/4, 1/6)
   - ~~Every unit may have at most 3 spells learned for each lore of magic.~~
   - "Magic" includes elem magic, draconic, aow, necro.
-  - Things like XX, XX II, XX III are counted as 1 spell.
   - It is very inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
   - Examples
     - build 1: skill 1, skill 2, skill 3, Earth Magic (spell 1, spell 2), Air Magic (spell 1, spell 2)
