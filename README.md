@@ -146,10 +146,9 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 8. (optional)
-- **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 5-6 units for 8 units.
+- **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
   - Lord is banned.
-  - ~~Cleric and Priest are not banned, however, the heal magic they can use is restricted. They can only use heal one tier lower than that Familiar of the same level can use. For example, they may not use allheal, and they may only use heal 1 at level 22 since Familiar can only use heal 2 at level 22.~~
   - Cleric and Priest are banned.
   - Classes having access to both status restoration Light Magic and Phalanx are banned: Knight, White Knight, Paladin.
   - Classes able to use Fearful Impact are banned: Terror Knight, Knight Commander.
@@ -159,6 +158,7 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 - **Magic Clause** (optional) - Every 2 spells take up 1 slot. Hopefully, some other tools overshadowed before will become useful. (2021/1/4, 1/6)
   - ~~Every unit may have at most 3 spells learned for each lore of magic.~~
   - "Magic" includes elem magic, draconic, aow, necro.
+  - Things like XX, XX II, XX III are counted as 1 spell.
   - It is very inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
   - Examples
     - build 1: skill 1, skill 2, skill 3, Earth Magic (spell 1, spell 2), Air Magic (spell 1, spell 2)
