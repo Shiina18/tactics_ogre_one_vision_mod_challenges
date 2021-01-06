@@ -155,14 +155,14 @@ These are rules adapted from what I used in 2019, and at that time I even banned
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
   - The undead and Angel Knight are banned. 
 - **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
-- **Magic Clause** (optional) - Every 2 spells take up 1 slot. Hopefully, some other tools overshadowed before will become useful. (2021/1/4, 1/6)
+- **Magic Clause** (optional) - Every 3 spells take up 1 slot. Hopefully, some other tools overshadowed before will become useful. (2021/1/4, 1/6)
   - ~~Every unit may have at most 3 spells learned for each lore of magic.~~
   - "Magic" includes elem magic, draconic, aow, necro.
   - It is very inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
   - Examples
-    - build 1: skill 1, skill 2, skill 3, Earth Magic (spell 1, spell 2), Air Magic (spell 1, spell 2)
-	- build 2: skill 1, skill 2, skill 3, Earth Magic (spell 1, spell 2, spell 3), Air Magic (spell 1). 4 spells take up 2 slots.
-	- build 3: skill 1, skill 2, skill 3, Earth Magic (spell 1, spell 2, spell 3, spell 4), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
+    - build 1: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (3 spells)
+	- build 2: skill 1, skill 2, skill 3, Earth Magic (4 spells), Air Magic (2 spells). 6 spells take up 2 slots.
+	- build 3: skill 1, skill 2, skill 3, Earth Magic (6 spells), blank. 6 spells take up 2 slots, so there is no room for 5th skill.
 	- 
  
 And below are some other variant rules provided by Vital and Suppanut
