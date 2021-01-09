@@ -40,9 +40,11 @@ You may use the following cheatcodes to facilitate the team customization proces
 - Skip unwanted battles
 - Set max HP
 
+The scripts that generates codes above are [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Cheatcode-generator).
+
 You are suggested to play fair. Say, if normal enemies have rank 4 weapon skills, then set your weapon skills for newly recruited physical fighters rank 4 should be fair.
 
-(I will update here and upload more tutorials later.)
+You may refer to `some cheatcodes I used.ini` in this repo for some handy cheatcodes and [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Cheatcode-generator) for more codes.
 
 ## Common Rules
 
