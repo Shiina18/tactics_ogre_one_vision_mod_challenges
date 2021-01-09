@@ -50,7 +50,7 @@ You may refer to `some cheatcodes I used.ini` in this repo for some handy cheatc
 
 Common rules should always be followed.
 
-0.963d
+0.970a
 
 2020/9/26
 
@@ -143,6 +143,8 @@ _L 0x20025C34 0x34060000
 If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
 
 These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
+
+See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
 - **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
 - **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
