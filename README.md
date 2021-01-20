@@ -189,7 +189,7 @@ The core is the one skill clause, with which some restrcitions in common rules a
 
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
-If you find one skill rule uninteresting, you may extend it into something like two skill rules. But note that Distill MP + one shutdown magic is enough for a Warlock to spam shutdowns freely, so you probably need additional rules to restrict it.
+If you find one skill rule uninteresting or that it causes some trouble in later battles, you may extend it into something like two skill rules. But note that Distill MP + one shutdown magic is enough for a Warlock to spam shutdowns freely, so you probably need additional rules to restrict it.
 
 - **One Skill Clause** 
 	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, skills like XX I, XX II, XX III are considered the same skill. 
