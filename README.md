@@ -237,8 +237,6 @@ Same with one-trick pony rules except
 
 - one skill clause: "every unit may only equip one skill" is changed to "every unit may only equip two skills".
 - number clause: "- 2 + min(# of enemies clerics and neros, 2)" is changed to "- 5 + min(# of enemies clerics and neros, 3)".
-
-
 - **Obstacle Clause** - same with that in common rules.
 - **Additional Clause**
 	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section.
