@@ -189,7 +189,7 @@ The core is the one skill clause, with which some restrcitions in common rules a
 
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
-If you find one skill rule uninteresting or that it causes some trouble in later battles, you may extend it into something like two skill rules. But note that Distill MP + one shutdown magic is enough for a Warlock to spam shutdowns freely, so you probably need additional rules to restrict it.
+If it causes some trouble in later battles, refer to two-trick pony rules.
 
 - **One Skill Clause** 
 	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, skills like XX I, XX II, XX III are considered the same skill. 
@@ -225,6 +225,20 @@ _L 0x20025C28 0x34060000
 _L 0x20025C34 0x34060000
 ```
 
+### Two-trick pony rules
+
+2021/1/20
+
+0.970a
+
+Same with one-trick pony rules except one skill clause, where "every unit may only equip one skill" is changed to "every unit may only equip two skills".
+
+- **Spell Clause** 
+	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+- **Obstacle Clause** - same with that in common rules.
+- **Additional rules**
+	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section.
+	- Slayer skills are banned.
 
 ## Misc
 
