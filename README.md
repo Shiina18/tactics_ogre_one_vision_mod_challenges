@@ -58,7 +58,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2021/1: Refine Heal Clause and add an optional rule.
+- 2021/1: Refine Heal Clause and add an optional rule. Add one-trick pony rules.
 - 2020/12: Add Class Clause Plus. Specify grinding clause. 
 - 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
 - 2020/10: Restrict anti-undead weapons. Ban slayer skills. Clarify Obstacle Clause. Modify Grinding Clause, Weapon Clause and Heal Clause. Add Obstacle Clause, and expand class clause.
@@ -176,6 +176,44 @@ And below are some other variant rules provided by Vital and Suppanut
 - no divine or dark magic 
 - no dex weapons 
 - no str weapons
+
+### One-trick pony rules
+
+2021/1/20
+
+0.970a
+
+It's independent from the common rules, and easier to state and track (no heal/shutdown clause anymore). But it might be duller than rules above. 
+
+The core is the one skill clause, with which some restrcitions in common rules are relaxed here.
+
+Haven't tested it, so there might exist some abusive options waiting to be banned.
+
+- **One Skill Clause** 
+	- 1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, things like XX I, XX II, XX III are considered the same skill. 
+	- 2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**.
+	- 3. Skill rank of players is fixed rank 2.
+	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only use one spell during the battle.
+- **Equipment Clause**
+	- Only gears not higher than Damascus ones are allowed to use, typically those lv. 1~22 ones.
+	- Lv. 16+ (16 included) Blowguns are banned.
+	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
+	- When attacking undead units, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). Basically only 1h hammer sidegrades are legal.
+- **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
+- **Objection Clause** - The same with that of common rule.
+- **Incap Clause** - Units must be teleported out before he is incapacitated and three countdowns run out. 	
+- **Grinding Clause**
+    - Highest level in player's party <= lowest level in enemies.
+	- Body swapping is not allowed.
+- **Tarot Clause**
+    - No Chariot Tarot. 
+    - No Tarot card stat bonus and anything that could boost stat.
+
+```
+_C1 No Tarot Stat Bonus
+_L 0x20025C28 0x34060000
+_L 0x20025C34 0x34060000
+```
 
 
 ## Misc
