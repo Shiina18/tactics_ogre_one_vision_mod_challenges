@@ -201,6 +201,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 - **Equipment Clause**
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
 	- Lv. 16+ (16 included) Blowguns except Kirin Blowgun are banned. Kotetsu and Caldia are banned.
+	- You may not have more than one Kirin Blowgun equipped on the team.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
 - **Number Clause**
