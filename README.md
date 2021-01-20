@@ -192,7 +192,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 - **One Skill Clause** 
 	- 1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, things like XX I, XX II, XX III are considered the same skill. 
 	- 2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**.
-	- 3. Skill rank of players is fixed rank 2.
+	- 3. Skill rank of players is fixed rank 2. Use the cheatcodes in `rank2cheats.txt` in this repo.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only use one spell during the battle.
 - **Equipment Clause**
 	- Only gears not higher than Damascus ones are allowed to use, typically those lv. 1~22 ones.
@@ -200,6 +200,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- When attacking undead units, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). Basically only 1h hammer sidegrades are legal.
 - **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
+	- Exception: Shiftstones are not counted here, and you may use them as many times as you like.
 - **Objection Clause** - The same with that of common rule: Kill all other enemies before killing the boss.
 - **Incap Clause** - Units must be teleported out before he is incapacitated and three countdowns run out. 	
 - **Grinding Clause**
