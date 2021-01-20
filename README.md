@@ -195,6 +195,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, skills like XX I, XX II, XX III are considered the same skill. 
 	2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**. Spells like XX I, XX II are considered different spells.
 	3. Skill rank of players is fixed rank 2. Use the cheatcodes in `rank2cheats.txt` in this repo.
+	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Class Clause**
 	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
@@ -235,14 +236,15 @@ Haven't tested it yet. Full stall might be easy in this rule and further restric
 Same with one-trick pony rules except 
 
 - one skill clause: "every unit may only equip one skill" is changed to "every unit may only equip two skills".
-- number clause: "- 2 + min" is changed to "- 4 + min".
+- number clause: "- 2 + min(# of enemies clerics and neros, 2)" is changed to "- 5 + min(# of enemies clerics and neros, 3)".
 
-- **Spell Clause** 
-	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+
 - **Obstacle Clause** - same with that in common rules.
-- **Additional rules**
+- **Additional Clause**
 	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section.
 	- Slayer skills are banned.
+	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+	- Lord, Cleric, Priest, Knight, White Knight, Paladin, Terror Knight, Knight Commander are only allowed to equip one skill.
 
 ## Misc
 
