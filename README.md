@@ -245,6 +245,7 @@ Same with one-trick pony rules except
 	- Slayer skills are banned.
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 	- Lord, Cleric, Priest, Knight, White Knight, Paladin, Terror Knight, Knight Commander are only allowed to equip one skill.
+	- You may not have both Purify and Harvest Dance on your team (to prevent potential full stall team).
 
 ## Misc
 
