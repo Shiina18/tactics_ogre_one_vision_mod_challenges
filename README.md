@@ -200,7 +200,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- When attacking undead units, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). Basically only 1h hammer sidegrades are legal.
 - **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
-- **Objection Clause** - The same with that of common rule.
+- **Objection Clause** - The same with that of common rule: Kill all other enemies before killing the boss.
 - **Incap Clause** - Units must be teleported out before he is incapacitated and three countdowns run out. 	
 - **Grinding Clause**
     - Highest level in player's party <= lowest level in enemies.
