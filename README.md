@@ -185,7 +185,7 @@ And below are some other variant rules provided by Vital and Suppanut
 
 It's independent from the common rules, and easier to state and track (no heal/shutdown clause anymore). But it *might* be duller than rules above (they are quite different rules so they are fun in different ways).
 
-The core is the one skill clause, with which some restrcitions in common rules are relaxed here.
+The core is the one skill clause, with which some restrcitions in common rules are relaxed here. Also, it makes team management and game plan explanation concise.
 
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
