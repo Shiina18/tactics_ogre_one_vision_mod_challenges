@@ -235,7 +235,6 @@ Haven't tested it yet. Full stall might be easy in this rule and further restric
 Same with one-trick pony rules except 
 
 - one skill clause: "every unit may only equip one skill" is changed to "every unit may only equip two skills".
-- class clause: "have 3 or more units with the same class" is changed to "have 2 or more units with the same class".
 - number clause: "- 2 + min" is changed to "- 4 + min".
 
 - **Spell Clause** 
