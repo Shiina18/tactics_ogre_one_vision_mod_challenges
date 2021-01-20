@@ -198,8 +198,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Class Clause**
 	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
-	- Wingedman (except Canopus) and Angel Knight are banned.
-	- You may not have units with the same appearance (e.g. duplicate non-human races).
+	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
 - **Equipment Clause**
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
 	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
