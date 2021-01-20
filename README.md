@@ -194,8 +194,11 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**. Spells like XX I, XX II are considered different spells.
 	3. Skill rank of players is fixed rank 2. Use the cheatcodes in `rank2cheats.txt` in this repo.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
+- **Class Clause**
+	- You may not have 3 or more units with the same class (2 is ok).
+	- Wingedman (excpet Canopus) and Angel Knight are banned.
 - **Equipment Clause**
-	- Only gears not higher than Damascus ones are allowed to use, typically those lv. 1~22 ones.
+	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
 	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
