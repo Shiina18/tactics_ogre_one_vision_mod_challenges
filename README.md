@@ -189,6 +189,8 @@ The core is the one skill clause, with which some restrcitions in common rules a
 
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
+If you find one skill rule uninteresting, you may extend it into something like two skill rules. But note that Distill MP + one shutdown magic is enough for a Warlock to spam shutdowns freely, so you probably need additional rules to restrict it.
+
 - **One Skill Clause** 
 	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, skills like XX I, XX II, XX III are considered the same skill. 
 	2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**. Spells like XX I, XX II are considered different spells.
@@ -196,7 +198,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Class Clause**
 	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
-	- Wingedman (excpet Canopus) and Angel Knight are banned.
+	- Wingedman (except Canopus) and Angel Knight are banned.
 	- You may not have units with the same appearance (e.g. duplicate non-human races).
 - **Equipment Clause**
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
@@ -204,7 +206,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
 - **Number Clause**
-	- The number of units to use <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
+	- The number of units used <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
 	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
 - **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
 	- Exception: Shiftstones are not counted here, and you may use them as many times as you like.
