@@ -147,7 +147,11 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
 - **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
-- **Gear Clause** - Player may not use gears that are craftable in Enchiridion and gears that can only be obtained from droppings. Typically only gears under level 27 are usable which is the arsenal of AI.
+- **Equipment Clause** 
+	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
+	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
+	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
+	- You may not use anti-undead weapons to attack the undead.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
@@ -167,7 +171,8 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
     - build 1: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (3 spells)
 	- build 2: skill 1, skill 2, skill 3, Earth Magic (4 spells), Air Magic (2 spells). 6 spells take up 2 slots.
 	- build 3: skill 1, skill 2, skill 3, Earth Magic (6 spells), blank. 6 spells take up 2 slots, so there is no room for 5th skill.
-	- 
+- **Additional Clause** (2021/1/20)
+	- **Distill MP** is banned. 
  
 And below are some other variant rules provided by Vital and Suppanut
 
