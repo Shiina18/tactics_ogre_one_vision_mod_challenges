@@ -230,6 +230,8 @@ _L 0x20025C34 0x34060000
 
 0.970a
 
+Haven't tested it yet. Full stall might be easy in this rule and further restrictions are called for if it is true.
+
 Same with one-trick pony rules except one skill clause, where "every unit may only equip one skill" is changed to "every unit may only equip two skills".
 
 - **Spell Clause** 
