@@ -183,7 +183,7 @@ And below are some other variant rules provided by Vital and Suppanut
 
 0.970a
 
-It's independent from the common rules, and easier to state and track (no heal/shutdown clause anymore). But it might be duller than rules above. 
+It's independent from the common rules, and easier to state and track (no heal/shutdown clause anymore). But it *might* be duller than rules above (they are quite different rules so they are fun in different ways).
 
 The core is the one skill clause, with which some restrcitions in common rules are relaxed here.
 
