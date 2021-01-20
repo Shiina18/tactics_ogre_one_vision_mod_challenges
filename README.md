@@ -190,8 +190,8 @@ The core is the one skill clause, with which some restrcitions in common rules a
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
 - **One Skill Clause** 
-	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, things like XX I, XX II, XX III are considered the same skill. 
-	2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**.
+	1. Every unit may only equip one skill, and you may not have duplicate skills in your team. Specially, skills like XX I, XX II, XX III are considered the same skill. 
+	2. If magic skill (elem magic, art of war, draconic, necro, etc) is assigned, then **only one spell is allowed to use from this skill**. Spells like XX I, XX II are considered different spells.
 	3. Skill rank of players is fixed rank 2. Use the cheatcodes in `rank2cheats.txt` in this repo.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Equipment Clause**
