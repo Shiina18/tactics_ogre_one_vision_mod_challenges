@@ -196,7 +196,7 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Equipment Clause**
 	- Only gears not higher than Damascus ones are allowed to use, typically those lv. 1~22 ones.
-	- Lv. 16+ (16 included) Blowguns are banned.
+	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
 - **Number Clause**
