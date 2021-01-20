@@ -146,31 +146,27 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
-- **Skill Clause Plus** - Every unit can only have up to 5 skills equipped.
+- **5 Skill Clause** - Every unit can only have up to 5 skills equipped.
 - **Equipment Clause** 
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
-	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
-  - Ranks of all skills of enemies are set rank 8. (optional)
+  - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
-  - Lord is banned.
-  - Cleric and Priest are banned.
-  - Classes having access to both status restoration Light Magic and Phalanx are banned: Knight, White Knight, Paladin.
-  - Classes able to use Fearful Impact are banned: Terror Knight, Knight Commander.
+  - Lord, Cleric, Priest, Knight, White Knight, Paladin, Terror Knight, Knight Commander are banned.
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
   - The undead and Angel Knight are banned. 
 - **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
-- **Magic Clause** (optional) - Every 3 spells take up 1 slot. Hopefully, some other tools overshadowed before will become useful. (2021/1/4, 1/6)
+- **2 Magic Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
   - ~~Every unit may have at most 3 spells learned for each lore of magic.~~
   - "Magic" includes elem magic, draconic, aow, necro.
   - It is very inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
   - Examples
-    - build 1: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (3 spells)
-	- build 2: skill 1, skill 2, skill 3, Earth Magic (4 spells), Air Magic (2 spells). 6 spells take up 2 slots.
-	- build 3: skill 1, skill 2, skill 3, Earth Magic (6 spells), blank. 6 spells take up 2 slots, so there is no room for 5th skill.
+    - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
+	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
+	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
 - **Additional Clause** (2021/1/20)
 	- **Distill MP** is banned. 
  
@@ -207,7 +203,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
 - **Equipment Clause**
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
-	- Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.
+	- **Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown clause)
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
 - **Number Clause**
