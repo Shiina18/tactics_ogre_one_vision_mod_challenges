@@ -241,6 +241,7 @@ Same with one-trick pony rules except
 - **Additional Clause**
 	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section.
 	- Slayer skills are banned.
+	- **Distill MP** is banned.
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 	- Lord, Cleric, Priest, Knight, White Knight, Paladin, Terror Knight, Knight Commander are only allowed to equip one skill.
 	- You may not have both Purify and Harvest Dance on your team (to prevent potential full stall team).
