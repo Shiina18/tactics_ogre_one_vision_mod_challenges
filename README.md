@@ -199,6 +199,9 @@ Haven't tested it, so there might exist some abusive options waiting to be banne
 	- Lv. 16+ (16 included) Blowguns are banned.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
+- **Number Clause**
+	- The number of units to use <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
+	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
 - **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
 	- Exception: Shiftstones are not counted here, and you may use them as many times as you like.
 - **Objection Clause** - The same with that of common rule: Kill all other enemies before killing the boss.
