@@ -188,6 +188,10 @@ It's independent from the common rules, and easier to state and track (no heal/s
 
 The core is the one skill clause, with which some restrcitions in common rules are relaxed here. Also, it makes team management and game plan explanation concise.
 
+As a result, heal is very limited. Since duplicate skills are not allowed, unit with XX Magic is always short of MP, and there is **only one** unit can equip Divine Magic. Also according to the clause, only one spell may be used, so usually Heal 1 is the only easily accessible method. Other options like Purify costs 30 MP and is almost impossible to spam. Harvest Dance hopefully will be nerfed in the next patch...
+
+What's more, status restoration is hard in this rule, since you can't use consumables and Divine Magic (Ease) is usually occupied by Heal 1...
+
 Haven't tested it, so there might exist some abusive options waiting to be banned.
 
 If it causes some trouble in later battles, refer to two-trick pony rules.
