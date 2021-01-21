@@ -89,7 +89,7 @@ The rules are only based on games around level 18 for now.
 - **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out. 
     - Since evac mechanism will be removed, unit has to use a shiftstone to teleport himself out before being killed in an early stage, which makes the game harder. Also, Black Plume might be useful. (2020/12/30)
 - **Heal Clause** - The number of times of using consumables, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [y] is the integer part of y.
-    - Using any consumable counts a heal.
+    - Using any consumable counts a heal. Exception: shiftstone is not counted. (2021/1/21)
 	- For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5. 
 	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3 or 5 copies of each consumable). Also, salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
@@ -167,6 +167,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
     - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
 	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
 	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
+  - Exception: Black Plume (necro) is not counted.
 - **Additional Clause** (2021/1/20)
 	- **Distill MP and Fearful Impact** are banned. 
  
