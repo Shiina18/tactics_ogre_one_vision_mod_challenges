@@ -202,7 +202,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
 - **Equipment Clause**
-	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
+	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
 	- **Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown clause)
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- You may not use anti-undead weapons to attack the undead.
