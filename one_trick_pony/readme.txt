@@ -1,5 +1,7 @@
 2021/1/21
 
+Follow the one trick pony rule.
+
 Though I have cheated all class marks, but only those legally obtainable shall be used.
 
 
