@@ -102,7 +102,7 @@ The rules are only based on games around level 18 for now.
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
-	- Exception: you are allowed to shutdown up to 2 units in one action (AOE), however you can only do this when there is no other shutdown enemy.
+	- Exception: you are allowed to shutdown ~~up to 2~~ multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
 	- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
 	- ~~If more than one enemy is shutdown on the battlefield, the player loses immediately.~~ (might be too restrictive, I will follow this personally.)
 	- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. So be careful.
