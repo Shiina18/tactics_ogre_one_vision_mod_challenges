@@ -86,7 +86,7 @@ The rules are only based on games around level 18 for now.
         - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
     - Else,
         - the boss can only be killed when other enemies are killed.
-- **Incap Clause** - Incapacitated units must be teleported out before three countdowns run out. 
+- **Incap Clause** - Units shouldn't lose life (heart): units must be teleported out before he is incapacitated and three countdowns run out, or must not be hit by exorcism if he is undead.
     - Since evac mechanism will be removed, unit has to use a shiftstone to teleport himself out before being killed in an early stage, which makes the game harder. Also, Black Plume might be useful. (2020/12/30)
 - **Heal Clause** - The number of times of using consumables, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [y] is the integer part of y.
     - Using any consumable counts a heal. Exception: shiftstone is not counted. (2021/1/21)
@@ -170,6 +170,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
   - Exception: Black Plume (necro) is not counted.
 - **Additional Clause** (2021/1/20)
 	- **Distill MP and Fearful Impact** are banned. 
+	- Tools to transform a unit into undead (e.g. **Living Dead**) are banned.
  
 And below are some other variant rules provided by Vital and Suppanut
 
