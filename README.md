@@ -148,9 +148,9 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 
 - **5 Skill Clause** - Every unit can only have up to 5 skills equipped.
 - **Equipment Clause** 
-	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels are also allowed.
+	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
-	- You may not use anti-undead weapons to attack the undead.
+	- **You may not use anti-undead weapons to attack the undead.**
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
@@ -201,11 +201,9 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 - **Class Clause**
 	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
-- **Equipment Clause**
-	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
-	- **Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown clause)
-	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
-	- You may not use anti-undead weapons to attack the undead.
+- **Equipment Clause** 
+	- Same with that in Optional Rules
+	- Additionally, **Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown and heal clause)
 - **Number Clause**
 	- The number of units used <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
 	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
