@@ -211,7 +211,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
 - **Equipment Clause** 
 	- Same with that in Optional Rules
-	- Additionally, **Lv. 16+ (16 included) Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown and heal clause)
+	- Additionally, **shutdown and heal Blowguns are banned. Kotetsu and Caldia are banned.** (since there is no shutdown and heal clause)
 - **Number Clause**
 	- The number of units used <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
 	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
