@@ -207,7 +207,6 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21.
 	- For example, if cleric equips Divine Magic, then other units may not equip Divine Magic. Also, this cleric may only one spell during the battle (if heal 2 is used, then he is only allowed to use heal 2 in the rest time of this battle).
 - **Class Clause**
-	- You may not have 3 or more units with the same class (2 is ok, one male one female to distinguish different builds).
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special.
 - **Equipment Clause** 
 	- Same with that in Optional Rules
