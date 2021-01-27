@@ -216,6 +216,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
 - **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
 	- Exception: Shiftstones are not counted here, and you may use them as many times as you like.
+	- It means if you use Silence Bringer (aow), then you may only use it once in a battle, and no other aows can be used.
 - **Objection Clause** - The same with that of common rule: Kill all other enemies before killing the boss.
 - **Incap Clause** - Units must be teleported out before he is incapacitated and three countdowns run out. 	
 - **Grinding Clause**
