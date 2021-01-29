@@ -12,6 +12,12 @@ You are welcome to contribute your own saves with your rules.
 
 添加了中文翻译. (2020/12/28)
 
+## Foreword
+
+generally speaking, dealing damage isn't important, as long as one or two units can deal decent damage, whoever they are, it's fine. (Heal is op, and the issue is impossible to tackle, so we won't talk about it.) The most important part, in my opinion, is status/MP/TP/RT management, which is common in my playstyle but might not be obvious to those who don't know that.
+
+like playing all competitive games, just ask yourself questions, what's the intent of your move, what will possibly happen in the next few turns (check the relevent units and calculate it in mind) if you do this. Try to justify that, and think about if there exists a better choice...
+
 ## Directory Structure
 
 Every save may contain following files:
