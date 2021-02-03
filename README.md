@@ -67,6 +67,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
+- 2021/2: Trim common rules.
 - 2021/1: Refine Heal Clause and add an optional rule. Add one-trick pony rules.
 - 2020/12: Add Class Clause Plus. Specify grinding clause. 
 - 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
@@ -76,32 +77,30 @@ Later changes will be tagged with corresponding timestamp.
 The rules are only based on games around level 18 for now.
 
 - **Class Clause**
-    - ~~The player cannot have two units with the same class on a team.~~ (deprecated 2021/1/21)
-        - ~~All kinds of dragons are counted as one class.~~ 
 	- The player cannot have three units with the same class on a team.
-		- If two units are of the same class, they must not use the same type of weapon and have duplicate skill. (2021/1/21)
-    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, ~~monster,~~ angel knight and undead is counted as special no matter what class he is. (Whether monster and undead should be included has not been decided yet. Probably need a player who really pilot monster/undead team to say something.)
-    - If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
-	- ~~Denam must be Warrior.~~  (I follow this rule personally)
-	- **Octopus** may not enter a water tile that is connected (by water tiles) to a square made of 3x3 water tiles. See the example section. (2020/11/1)
-	- Dragoons can be used while slayer skills are banned. (2020/10/19)
+		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. (2021/1/21)
+    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special no matter what class he is.
+	- Lord and **Octopus** are banned.
+	- You may not use angel knight and any undead unit. (2021/2/3)
 - **Weapon Clause**
-    - ~~The player cannot have "same" types of weapons on a team unless dual wielding.~~
-        - ~~Sidegrades are counted as a different types.~~ (I will personally follow the old rule, which is more restrictive.)
+    - ~~The player cannot have "same" types of weapons on a team unless dual wielding by one unit.~~
+        - ~~Sidegrades are counted as a different types.~~
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
-        - Boulders, Blowguns and Throwing Weapons are counted as different types.
+		- Additionally, different units may not have exact same weapon. 
+			- For example, if one unit has Damasc Claws, then other units may not equip Damasc Claws, though another unit can equip other claws.
+        - Boulders, Blowguns and Throwns are counted as different types.
         - For example, if two unit have fists equipped, then other units can't use a fist.
-	- **When attacking undead units**, you may not use lv. 10 weapons (typically Baldur and Silver ones) and other weapons named "Baldur/Silver xx" (lv. 16 bow, xbow). Basically only 1h hammer sidegrades and few end-game ones are legal. (2020/10/21)
-- **Objection Clause**
-    - If there are reinforcements,
-        - the boss can only be killed when # of enemies <= min{5, # of allies} (since killing Knights and Golems might be too time consuming);
-    - Else,
-        - the boss can only be killed when other enemies are killed.
+- **Equipment Clause** 
+	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
+	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
+	- **You may not use anti-undead weapons to attack the undead.**
+- **Objection Clause** - The objection is always to "vanquish them all". 
+	- It means you have to kill all other units (including reinforcements) before killing the boss.
 - **Incap Clause** - Units shouldn't lose life (heart): units must be teleported out before he is incapacitated and three countdowns run out, or must not be hit by exorcism if he is undead.
-    - Since evac mechanism will be removed, unit has to use a shiftstone to teleport himself out before being killed in an early stage, which makes the game harder. Also, Black Plume might be useful. (2020/12/30)
-- **Heal Clause** - The number of times of using consumables, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. And this upper bound is denoted as N, where [y] is the integer part of y.
-    - Using any consumable counts a heal. Exception: shiftstone is not counted. (2021/1/21)
-	- For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5. 
+    - Unit has to use a shiftstone to teleport himself out in advance. Also, Black Plume might be useful. (2020/12/30)
+- **Heal Clause** - The number of times of using **consumables**, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. This upper bound is denoted as N, where [y] is the integer part of y.
+    - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
+	- Using any consumable counts a heal. **Exception: shiftstone is not counted.** (2021/1/21) 
 	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3 or 5 copies of each consumable). Also, salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
@@ -113,16 +112,14 @@ The rules are only based on games around level 18 for now.
     - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
-	- Exception: you are allowed to shutdown ~~up to 2~~ multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
-	- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
-	- ~~If more than one enemy is shutdown on the battlefield, the player loses immediately.~~ (might be too restrictive, I will follow this personally.)
-	- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. So be careful.
+	- Exception: you are allowed to shutdown multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
+		- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
+		- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. Be careful.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
-	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
 	- **Using slayer skills is not allowed.** (2020/10/19)
 - **Obstacle Clause** (2020/10/15)
-	- You cannot place an obstacle (phalanx, gunner's obstacles, etc.) that would make it impossible for an enemy unit to "reach" any of your own units. 
+	- You cannot place an obstacle (phalanx, obstacles, etc.) that would make it impossible for an enemy unit to "reach" any of your own units. 
 	  - "Reach any of your own units" means that for any enemy, there exists a path connecting at least one of your own units. A path is made of tiles (water and lava are not counted) that have adjacent elev difference <= 2.
 	  - For simplicity, you may imagine every enemy is a healthy human melee fighter with up 2 down 2 jump and can't get into water and lava, and if he can move to the tile on which at least one of your units stand (imagine your units don't exist at this moment), then we say there is a "path".
 	  - As explained above, an enemy inflicted bind may not be able to "reach" your units, but if there is a path defined above, then it's legal.
@@ -130,16 +127,18 @@ The rules are only based on games around level 18 for now.
 	- When there is a river/lava splitting two (or several) lands A and B, then this rule applies to two lands separately and only works when there are both your units and enemies on one land.
 		- Say, your units start at land A and enemies start at land B. You are allowed to set obstacles freely on land A since there is no enemy here. However, if there is en enemy on land A, then you have to follow the rule above on land A.
 	- You may watch how phalanx is abusable here: https://www.youtube.com/watch?v=qUtBRLZu0Hk.
-- **Jewelry Clause**
-	- Only two necklaces of denam and catiua, warrior/defender ring and those craftable from Jewelry 1 (except warrior/defender band) are allowed. Since normal enemies only use them. (2020/9/30)
 - **Grinding Clause**
     - Highest level in player's party <= lowest level in enemies.
     - Highest rank of skills in player's party <=  lowest rank of skills in enemies. (optional, cheatcode is needed)
     - The number of skills equipped for a unit in player's party <= Min (the number of skills equipped for a unit in enemies). For example, if there is an enemy only having 5 skills equipped, then every unit of players may equip up to 5 skills.
-    - Body swapping is not allowed (e.g. phylacteries). (2020/10/13)
+- **Supplement Clause**
+	- If a unit can't change class to a certain class, then he may not use that class and inherit skills from that class. Since sometimes units begin with inappropriate classes. (2020/10/4)
+	- If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. For example, you can't transfer Clarity 2 to Spellblade at level 18 since Spellblade can learn it at level 21. (2020/9/30)
+	- Body swapping is not allowed (e.g. phylacteries). (2020/10/13)
+	- Always start a battle with a sunny day, unless it is programed to rain.
 - **Tarot Clause**
     - No Chariot Tarot. 
-    - No Tarot card stat bonus and anything that could boost stat.
+    - No Tarot card stat bonus and anything (e.g. food) that could boost stat.
 
 ```
 _C1 No Tarot Stat Bonus
@@ -157,30 +156,24 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
+- **Common Rules**
 - **5 Skill Clause** - Every unit can only have up to 5 skills equipped.
-- **Equipment Clause** 
-	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
-	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
-	- **You may not use anti-undead weapons to attack the undead.**
+- **2 Spell Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
+  - "Magic" includes elem magic, draconic, aow, necro.
+  - It is inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
+  - Examples
+    - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
+	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
+	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
+  - Exception: Black Plume (necro) is not counted.
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
   - Lord, Cleric, Priest, Knight, White Knight, Paladin, ~~Terror Knight, Knight Commander~~ are ~~banned~~ only allowed to equip one skill. (2021/1/21)
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
-  - The undead and Angel Knight are banned. 
-- **Weather Clause** - Always start a battle with a sunny day, unless it is programed to rain.
-- **2 Magic Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
-  - ~~Every unit may have at most 3 spells learned for each lore of magic.~~
-  - "Magic" includes elem magic, draconic, aow, necro.
-  - It is very inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
-  - Examples
-    - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
-	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
-	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
-  - Exception: Black Plume (necro) is not counted.
 - **Additional Clause** (2021/1/20)
-	- **Distill MP and Fearful Impact** are banned. 
+	- **Fearful Impact** are banned. 
 	- Tools to transform a unit into undead (e.g. **Living Dead**) are banned.
  
 And below are some other variant rules provided by Vital and Suppanut
@@ -223,7 +216,7 @@ If it causes some trouble in later battles, refer to two-trick pony rules.
 - **Number Clause**
 	- The number of units used <= maximum number of units allowed to use - 2 + min(# of enemies clerics and neros, 2)
 	- For example, you are allowed use 10 units originally, however there is no clerics in enemy team, then you may only use 10 - 2 + min(0, 2) = 8 units in this rule.
-- **Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
+- **One Consumable Clause** - You may only use 1 consumable (including that used by skills like aow / booby trap) during one battle.
 	- Exception: Shiftstones are not counted here, and you may use them as many times as you like.
 	- It means if you use Silence Bringer (aow), then you may only use it once in a battle, and no other aows can be used.
 - **Objection Clause** - The same with that of common rule: Kill all other enemies before killing the boss.
@@ -322,29 +315,6 @@ B
 ```
 
 Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
-
-### Water
-
-W means water
-
-```
-W W W
-W W W
-W W W
-      W
-```
-
-Octopus is only allowed to enter the water tile in the right bottom.
-
-```
-W W W
-W W W
-W W W W
-      W
-```
-
-Octopus is not allowed to enter all the water tiles, since this time the right bottom is connected by water tiles to a square of 3x3 water tiles.
-
 
 
 ## 通用规则 (中文版)
