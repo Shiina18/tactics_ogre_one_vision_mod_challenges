@@ -174,7 +174,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Number Clause** - If you are allowed to use 12 units, only use 9-10 units instead. Similarly, 7-8 units for 10 units, 6 units for 8 units.
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
-  - Lord, Cleric, Priest, Knight, White Knight, Paladin, ~~Terror Knight, Knight Commander~~ are banned. (2021/1/21)
+  - Lord, Cleric, Priest, Knight, White Knight, Paladin, Astromancer, ~~Terror Knight, Knight Commander~~ are banned. (2021/1/21)
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 - **Additional Clause** (2021/1/20)
 	- **Fearful Impact** is banned. 
