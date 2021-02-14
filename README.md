@@ -103,7 +103,7 @@ The rules are only based on games around level 18 for now.
 - **Heal Clause** - The number of times of using **consumables**, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. This upper bound is denoted as N, where [y] is the integer part of y.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
 	- Using any consumable counts a heal. **Exception: shiftstone is not counted.** (2021/1/21) 
-	- Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
+	- You may not use the same consumable more than 3 times in a battle (since enemies only have 3-5 copies of each consumable). Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - AOE Renweal is counted as half a heal. (2021/1/4)
