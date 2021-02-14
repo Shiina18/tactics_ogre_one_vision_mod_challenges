@@ -79,8 +79,8 @@ The rules are only based on games around level 18 for now.
 - **Class Clause**
 	- ~~No duplicate classes.~~
 	- The player cannot have three units with the same class on a team.
-		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. (2021/1/21)
-	- All dragons are considered as "one class". (2021/2/14)
+		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. (2021/1/21)
+		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
     - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team, 1 in 8-unit. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
@@ -90,19 +90,19 @@ The rules are only based on games around level 18 for now.
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
 		- Additionally, different units may not have exact same weapon. 
 			- For example, if one unit has Damasc Claws, then other units may not equip Damasc Claws, though another unit can equip other claws.
-        - Boulders, Blowguns and Throwns are counted as different types.
+        - Boulders, Blowguns and Throwns are counted as different types. Vritra is counted as Blowgun.
         - For example, if two unit have fists equipped, then other units can't use a fist.
 - **Equipment Clause** 
 	- Only lv. 1~27 gears are allowed to use. Exceptions: lv. 30 cudgels and Lv. 28 bows, xbows are allowed.
 	- Only 10 kinds of rings are allowed: lv. 1 ones (warrior's ring, defender's ring) and lv. 8 ones (ring of str/vit/.../res).
 	- **You may not use anti-undead weapons to attack the undead.**
 - **Objection Clause** - The objection is always to "vanquish them all". 
-	- It means you have to kill all other units (including reinforcements) before killing the boss.
-- **Incap Clause** - Units shouldn't lose life (heart): units must be teleported out before he is incapacitated and three countdowns run out, or must not be hit by exorcism if he is undead.
+	- It usually means you have to kill all other units (including reinforcements) before killing the boss.
+- **Incap Clause** - Units shouldn't lose life (heart): units must be teleported out before he is incapacitated and three countdowns run out.
     - Unit has to use a shiftstone to teleport himself out in advance. Also, Black Plume might be useful. (2020/12/30)
 - **Heal Clause** - The number of times of using **consumables**, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. This upper bound is denoted as N, where [y] is the integer part of y.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
-	- Using any consumable counts a heal. **Exception: shiftstone is not counted.** (2021/1/21) 
+	- Using any consumable counts a heal per time. **Exception: shiftstone is not counted.** (2021/1/21) 
 	- You may not use the same consumable more than 3 times in a battle (since enemies only have 3-5 copies of each consumable). Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
@@ -115,7 +115,7 @@ The rules are only based on games around level 18 for now.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
 	- Exception: you are allowed to shutdown multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
-		- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately.
+		- If there exist shutdown enemies and new enemies are shutdown in another action, then the player loses immediately. **Exception**: story battle characters that are not in control won't cause a sudden loss.
 		- Note that if you have one enemy shutdown, the charmed one might make another shutdown so you lose immediately according to the rule. Be careful.
 - **Skill Clause** 
 	- Equipping the skill Stop Ward is prohibited.
