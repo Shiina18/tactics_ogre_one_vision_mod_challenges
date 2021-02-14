@@ -82,7 +82,7 @@ The rules are only based on games around level 18 for now.
 		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. (2021/1/21)
     - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
-	- You may not use angel knight and any undead unit. (2021/2/3)
+	- You may not use angel knight and any **undead** unit. (2021/2/3)
 - **Weapon Clause**
     - ~~The player cannot have "same" types of weapons on a team unless dual wielding by one unit.~~
         - ~~Sidegrades are counted as a different types.~~
@@ -102,7 +102,7 @@ The rules are only based on games around level 18 for now.
 - **Heal Clause** - The number of times of using **consumables**, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. This upper bound is denoted as N, where [y] is the integer part of y.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
 	- Using any consumable counts a heal. **Exception: shiftstone is not counted.** (2021/1/21) 
-	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3 or 5 copies of each consumable). Also, salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
+	- Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - AOE Renweal is counted as half a heal. (2021/1/4)
@@ -175,7 +175,6 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 - **Additional Clause** (2021/1/20)
 	- **Fearful Impact** are banned. 
-	- Tools to transform a unit into undead (e.g. **Living Dead**) are banned.
  
 And below are some other variant rules provided by Vital and Suppanut
 
@@ -184,6 +183,20 @@ And below are some other variant rules provided by Vital and Suppanut
 - no divine or dark magic 
 - no dex weapons 
 - no str weapons
+
+### Reverse mirror rules
+
+- **Common Rules**
+- **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
+	- If there is any Warrior in the enemy team, then you may not use Warrior in this battle.
+- **5 Skill Clause**
+- **Rank Clause**
+- **Additional Clause**
+	- You may only use generic classes.
+	- Cleric is banned.
+	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned.
+
+A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
 
 ### One-trick pony rules
 
