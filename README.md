@@ -81,7 +81,7 @@ The rules are only based on games around level 18 for now.
 	- The player cannot have three units with the same class on a team.
 		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. (2021/1/21)
 	- All dragons are considered as "one class". (2021/2/14)
-    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special no matter what class he is.
+    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team, 1 in 8-unit. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
 - **Weapon Clause**
@@ -196,8 +196,11 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 - **5 Skill Rules** with 2 Spell Clause removed
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
+	- Reinforcements are not considered. Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
+	- When facing end-game variants, for example, if there is Blue Warrior in the enemy team, you may not use Warrior in this battle.
 - **Additional Clause**
-	- Bard, Pumpkinhead and Hydra are banned temporarily. They are harder to obtain.
+	- A team cannot have more than 1 unit with special classes in a 9-12 unit  team, 0 in 1-8 unit team. (Class Clause in Common Rules)
+	- Bard, Pumpkinhead and Hydra are banned temporarily. 
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
 
