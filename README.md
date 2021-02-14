@@ -196,13 +196,11 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 - **5 Skill Clause**
 - **Rank Clause**
+- **Class Clause Plus**
 - **Additional Clause**
-	- Cleric and Knight are banned.
+	- A team cannot have more than 1 unit with special (unique) classes. (Class Clause in Common Rules)
 	- **Fearful Impact** is banned. 
-	- Wingedman is banned.
 	- Pumpkinhead and Hydra are banned temporarily. 
-	- You may only use generic classes: 17 human (including Lich) + 6 demihuman + monsters - Cleric - Knight - Warden.
-	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned.
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
 
