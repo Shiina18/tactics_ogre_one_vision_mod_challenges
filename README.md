@@ -194,6 +194,7 @@ And below are some other variant rules provided by Vital and Suppanut
 - **Additional Clause**
 	- You may only use generic classes.
 	- Cleric is banned.
+	- Wingedman is banned.
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned.
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
