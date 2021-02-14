@@ -193,7 +193,7 @@ And below are some other variant rules provided by Vital and Suppanut
 
 Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
-- **5 Skill Rules** with Class Clause Plus, Additional Clause (Fearful Impact is not banned) and 2 Spell Clause removed
+- **5 Skill Rules** with Class Clause Plus, 2 Spell Clause, Number Clause and Additional Clause (Fearful Impact is not banned) removed
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 	- Reinforcements are not considered. Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
