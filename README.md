@@ -200,8 +200,8 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 	- When facing end-game variants, for example, if there is Blue Warrior in the enemy team, you may not use Warrior in this battle.
 - **Additional Clause**
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. 
-	- Lord, Paladin, Astromancer, Knight Commander are banned.
-	- Cleric, Priest, Knight, White Knight, Terror Knight are now counted as special classes.
+	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
+	- Knight, White Knight, Terror Knight are now counted as special classes.
 	- A team cannot have more than 1 unit with special classes in a 9-12 unit  team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- Bard, Pumpkinhead and Hydra are banned temporarily. 
 
