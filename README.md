@@ -154,6 +154,8 @@ _L 0x20025C34 0x34060000
 
 If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
 
+### 5 skill rules
+
 These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
 
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
@@ -191,15 +193,11 @@ And below are some other variant rules provided by Vital and Suppanut
 
 Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
-- **Common Rules**
+- **5 Skill Rules** with 2 Spell Clause removed
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
-- **5 Skill Clause**
-- **Rank Clause**
-- **Class Clause Plus**
 - **Additional Clause**
 	- A team cannot have more than 1 unit with special (unique) classes. (Class Clause in Common Rules)
-	- **Fearful Impact** is banned. 
 	- Pumpkinhead and Hydra are banned temporarily. 
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
