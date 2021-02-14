@@ -184,11 +184,13 @@ And below are some other variant rules provided by Vital and Suppanut
 - no dex weapons 
 - no str weapons
 
-### Reverse mirror rules
+### Reverse mirror match rules
+
+Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
 - **Common Rules**
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
-	- If there is any Warrior in the enemy team, then you may not use Warrior in this battle.
+	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 - **5 Skill Clause**
 - **Rank Clause**
 - **Additional Clause**
