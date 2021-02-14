@@ -175,7 +175,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
   - Lord, Cleric, Priest, Knight, White Knight, Paladin, ~~Terror Knight, Knight Commander~~ are banned. (2021/1/21)
   - Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 - **Additional Clause** (2021/1/20)
-	- **Fearful Impact** are banned. 
+	- **Fearful Impact** is banned. 
  
 And below are some other variant rules provided by Vital and Suppanut
 
@@ -197,10 +197,11 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 - **5 Skill Clause**
 - **Rank Clause**
 - **Additional Clause**
-	- Cleric is banned.
+	- Cleric and Knight are banned.
+	- **Fearful Impact** is banned. 
 	- Wingedman is banned.
 	- Pumpkinhead and Hydra are banned temporarily. 
-	- You may only use generic classes: 16 human (including Lich) + 5 demihuman + monsters.
+	- You may only use generic classes: 17 human (including Lich) + 6 demihuman + monsters - Cleric - Knight - Warden.
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned.
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
