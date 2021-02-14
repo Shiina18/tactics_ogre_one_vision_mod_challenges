@@ -197,7 +197,6 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 - **Additional Clause**
-	- A team cannot have more than 1 unit with special (unique) classes. (Class Clause in Common Rules)
 	- Bard, Pumpkinhead and Hydra are banned temporarily. They are harder to obtain.
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
