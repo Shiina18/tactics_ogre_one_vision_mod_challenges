@@ -80,7 +80,9 @@ The rules are only based on games around level 18 for now.
 	- The player cannot have three units with the same class on a team.
 		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. (2021/1/21)
 		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
-    - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team, 1 in 8-unit. Any wingedman, angel knight and undead is counted as special no matter what class he is.
+    - The player cannot have two demihuman units with the same archtype race (Lizardman, Lamia, etc) on a team, since they look like the same. (2021/2/14)
+		- For example, you may have one Lizardman and one Lamia on your team, but not two Lizardman.
+	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team, 1 in 8-unit. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
 - **Weapon Clause**
