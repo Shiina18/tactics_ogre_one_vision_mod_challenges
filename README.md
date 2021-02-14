@@ -80,6 +80,7 @@ The rules are only based on games around level 18 for now.
 	- ~~No duplicate classes.~~
 	- The player cannot have three units with the same class on a team.
 		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. (2021/1/21)
+	- All dragons are considered as "one class". (2021/2/14)
     - **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
@@ -185,6 +186,8 @@ And below are some other variant rules provided by Vital and Suppanut
 - no str weapons
 
 ### Reverse mirror match rules
+
+2021/2/14
 
 Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
