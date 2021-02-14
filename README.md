@@ -59,7 +59,7 @@ You may refer to `some cheatcodes I used.ini` in this repo for some handy cheatc
 
 Common rules should always be followed.
 
-0.970a
+0.970d
 
 2020/9/26
 
@@ -67,7 +67,7 @@ The rules might be changed later, but they work quite well so far for not making
 
 Later changes will be tagged with corresponding timestamp.
 
-- 2021/2: Trim common rules.
+- 2021/2: Trim and refine common rules.
 - 2021/1: Refine Heal Clause and add an optional rule. Add one-trick pony rules.
 - 2020/12: Add Class Clause Plus. Specify grinding clause. 
 - 2020/11: Restrict octopus, and modify heal clause. Charm is also counted as shutdown.
@@ -77,7 +77,6 @@ Later changes will be tagged with corresponding timestamp.
 The rules are only based on games around level 18 for now.
 
 - **Class Clause**
-	- ~~No duplicate classes.~~
 	- The player cannot have three units with the same class on a team.
 		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. (2021/1/21)
 		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
@@ -85,8 +84,6 @@ The rules are only based on games around level 18 for now.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
 - **Weapon Clause**
-    - ~~The player cannot have "same" types of weapons on a team unless dual wielding by one unit.~~
-        - ~~Sidegrades are counted as a different types.~~
     - The player cannot have more than two units with the same type of weapon. (2020/10/13)
 		- Additionally, different units may not have exact same weapon. 
 			- For example, if one unit has Damasc Claws, then other units may not equip Damasc Claws, though another unit can equip other claws.
