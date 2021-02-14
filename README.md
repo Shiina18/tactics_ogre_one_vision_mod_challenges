@@ -192,9 +192,10 @@ And below are some other variant rules provided by Vital and Suppanut
 - **5 Skill Clause**
 - **Rank Clause**
 - **Additional Clause**
-	- You may only use generic classes.
 	- Cleric is banned.
 	- Wingedman is banned.
+	- Pumpkinhead and Hydra are banned temporarily. 
+	- You may only use generic classes: 16 human (including Lich) + 5 demihuman + monsters.
 	- Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned.
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
