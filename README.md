@@ -82,6 +82,7 @@ The rules are only based on games around level 18 for now.
 		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
     - The player cannot have two demihuman units with the same archtype race (Lizardman, Lamia, etc) on a team, since they look like the same. (2021/2/14)
 		- For example, you may have one Lizardman and one Lamia on your team, but not two Lizardman.
+		- If two human units are of the same class, it is suggested to have one male unit and one female unit to distinguish them.
 	- **A team cannot have more than 2 units with special (unique) classes in a 10-unit team**, and 3 special classes in a 12-unit team, 1 in 8-unit. Any wingedman, angel knight and undead is counted as special no matter what class he is.
 	- Lord and **Octopus** are banned.
 	- You may not use angel knight and any **undead** unit. (2021/2/3)
@@ -102,7 +103,7 @@ The rules are only based on games around level 18 for now.
 - **Heal Clause** - The number of times of using **consumables**, and using healing magic, skills and weapons <= 1.5 x (1 + # of enemy clerics) x [# of total enemy units / 3]. This upper bound is denoted as N, where [y] is the integer part of y.
     - For example, if an enemy team consists of 11 units including 2 clerics then N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
 	- Using any consumable counts a heal per time. **Exception: shiftstone is not counted.** (2021/1/21) 
-	- You may not use the same consumable more than 3 times in a battle (since enemies only have 3-5 copies of each consumable). Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
+	- You may not use the same consumable more than 5 times in a battle (since enemies only have 3-5 copies of each consumable). Salvation (resurgent) gems can only be used on story characters who need to be rescued. (2020/11/1)
     - Healing magic, skills and weapons include Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc. 
     - Exceptions. Those granting Renewal are not included. Lancet (Dark HP to HP) is not included since it's fair. Drain Heart (Dark) and magic like that which drains HP from others are not included.
     - AOE Renweal is counted as half a heal. (2021/1/4)
@@ -166,7 +167,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
 	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
 	- Knight, White Knight, Terror Knight are now counted as special classes.
-	- A team cannot have more than 1 unit with special classes in a 9-12 unit  team, 0 in 1-8 unit team. (Class Clause in Common Rules)
+	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
 - **2 Spell Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
   - "Magic" includes elem magic, draconic, aow, necro.
