@@ -169,14 +169,6 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 	- Knight, White Knight, Terror Knight are now counted as special classes.
 	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
-- **2 Spell Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
-  - "Magic" includes elem magic, draconic, aow, necro.
-  - It is inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
-  - Examples
-    - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
-	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
-	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
-  - Exception: Black Plume (necro) is not counted.
  
 And below are some other variant rules provided by Vital and Suppanut
 
@@ -186,13 +178,24 @@ And below are some other variant rules provided by Vital and Suppanut
 - no dex weapons 
 - no str weapons
 
+Deprecated
+
+- **2 Spell Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
+  - "Magic" includes elem magic, draconic, aow, necro.
+  - It is inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
+  - Examples
+    - build 1: skill 1, skill 2, skill 3, Earth Magic (2 spells), Air Magic (2 spells)
+	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
+	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
+  - Exception: Black Plume (necro) is not counted.
+
 ### Reverse mirror match rules
 
 2021/2/14
 
 Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
-- **5 Skill Rules** with 2 Spell Clause removed
+- **5 Skill Rules**
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 	- Reinforcements are not considered. Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
