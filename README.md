@@ -139,7 +139,7 @@ The rules are only based on games around level 18 for now.
 	- Body swapping is not allowed (e.g. phylacteries). (2020/10/13)
 	- Always start a battle with a sunny day, unless it is programed to rain.
 - **Tarot Clause**
-    - No Chariot Tarot. 
+    - No Chariot Tarot. The critical line is never to use Chariot to change a **random** result.
     - No Tarot card stat bonus and anything (e.g. food) that could boost stat.
 
 ```
