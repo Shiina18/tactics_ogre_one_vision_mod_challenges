@@ -8,6 +8,14 @@ This repo stores some saves just before interesting battles. In order to have fu
 
 Frankly speaking, it is an easy game if you are familiar with the mechanism and available tools. It only starts to get challenging when you impose additional restrictions.
 
+Metric for the difficulty of challenge: 
+
+- how long you need to finish a challenge
+- how hard you have to think about it
+- how many tricks and critical points you found during the process
+
+The basic principle is to use strictly restricted resource and limited tools to get all enemies down.
+
 You are welcome to contribute your own saves with your rules.
 
 添加了中文翻译. (2020/12/28)
