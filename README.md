@@ -16,6 +16,8 @@ Metric for the difficulty of challenge:
 
 The basic principle is to use strictly restricted resource and limited tools to get all enemies down.
 
+If you find it comfortable and easy to finish a "challenge", then it's not a challenge at all. Try more restrictive rules. **Feel free to apply your own rules.**
+
 You are welcome to contribute your own saves with your rules.
 
 添加了中文翻译. (2020/12/28)
@@ -185,6 +187,8 @@ And below are some other variant rules provided by Vital and Suppanut
 - no divine or dark magic 
 - no dex weapons 
 - no str weapons
+
+**Feel free to apply your own rules.**
 
 Deprecated
 
