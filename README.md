@@ -6,7 +6,7 @@ Check some useful pages [here](https://github.com/Shiina18/tactics_ogre_one_visi
 
 This repo stores some saves just before interesting battles. In order to have fun, remember to read the [Common Rules](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges#common-rules) below and readme.txt attached for every save. 
 
-Frankly speaking, it is an easy game if you are familiar with available tools. It only starts to get challenging when you impose additional restrictions.
+Frankly speaking, it is an easy game if you are familiar with the mechanism and available tools. It only starts to get challenging when you impose additional restrictions.
 
 You are welcome to contribute your own saves with your rules.
 
