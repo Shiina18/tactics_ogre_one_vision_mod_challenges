@@ -205,6 +205,24 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 
 A couterpart rule is to replace the **Reverse Mirror Match Clause** with **Mirror Match Clause**: You may *only* use classes that are in the enemy team.
 
+### Easier-to-track rules
+
+2021/2/17
+
+Needs to be refined.
+
+With some complicated rules removed, abusive tools are left, so addional clauses are needed to make them less spammable.
+
+- **Common Rules** with Heal, Shutdown, Obstacle Clause removed
+- **5 Skill Clause**
+- **Rank Clause**
+- **Additional Clause**
+	- The player cannot have two units with the same class on a team.
+	- No unique classes and wingmen shall be used.
+	- Use a 9-unit team instead of 12.
+	- No consumables excpet shiftstones and those required in aow (Exception: Bombs are banned).
+	- Skills able to create obstacles are banned, e.g. Phalanx, Barricade.
+
 ### One-trick pony rules
 
 2021/1/20
