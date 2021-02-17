@@ -4,13 +4,13 @@
 
 Check some useful pages [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki).
 
-I don't have much time recently, I will update further details later.
-
 This repo stores some saves just before interesting battles. In order to have fun, remember to read readme.txt attached for every save.
 
 You are welcome to contribute your own saves with your rules.
 
 添加了中文翻译. (2020/12/28)
+
+[TOC]
 
 ## Foreword
 
