@@ -172,6 +172,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 
 - **Common Rules**
 - **5 Skill Clause** - Every unit can only have up to 5 skills equipped.
+	- Now that I considered about it, **4 skills** should be enough. (2021/3/13)
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
