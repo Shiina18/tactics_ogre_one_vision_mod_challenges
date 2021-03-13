@@ -164,7 +164,7 @@ like playing all competitive games, just ask yourself questions, what's the inte
 
 If you are in new game plus (typically level 23+), then you have access to almost every important tools, and you may choose to follow the additional rules listed below. 
 
-### 5 skill rules
+### 5 or 4 skill rules
 
 These are rules adapted from what I used in 2019, and at that time I even banned all ranked skills. Since I have to maintain a large number of units, these rules make the process more manageable and make the game harder. You have to seriously think about what role your unit plays on your team when you build it.
 
@@ -178,7 +178,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
 	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
 	- Knight, White Knight, Terror Knight are now counted as special classes.
-	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
+	- A team cannot have more than 2 unit with special classes in a 9-12 unit team, 1 in 1-8 unit team. (Class Clause in Common Rules)
 	- Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
  
 And below are some other variant rules provided by Vital and Suppanut
@@ -211,7 +211,7 @@ Hopefully, it can forces me to use classes that I didn't like much and to try ne
 - **5 Skill Rules**
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
-	- Reinforcements are not considered. Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
+	- Reinforcements may not be considered (you can if you want). Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
 	- When facing end-game variants, for example, if there is Blue Warrior in the enemy team, you may not use Warrior in this battle.
 - **Additional Clause**
 	- Bard, Pumpkinhead and Hydra are banned temporarily. 
