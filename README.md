@@ -178,7 +178,7 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
 	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
 	- Knight, White Knight, Terror Knight are now counted as special classes.
-	- A team cannot have more than 2 unit with special classes in a 9-12 unit team, 1 in 1-8 unit team. (Class Clause in Common Rules)
+	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
  
 And below are some other variant rules provided by Vital and Suppanut
