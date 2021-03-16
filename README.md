@@ -79,7 +79,7 @@ The rules are only based on games around level 18 for now.
 
 - **Class Clause**
 	- The player cannot have three units with the same class on a team.
-		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. (2021/1/21)
+		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. Instill elements are counted as one skill. (2021/1/21)
 		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
     - The player cannot have two demihuman units with the same archtype race (Lizardman, Lamia, etc) on a team, since they look like the same. (2021/2/14)
 		- For example, you may have one Lizardman and one Lamia on your team, but not two Lizardman.
@@ -177,9 +177,9 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
 	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
-	- Knight, White Knight, Terror Knight are now counted as special classes.
+	- Knight, Terror Knight are now counted as special classes.
 	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
-	- Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)
+	- ~~Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)~~ Since acc formulation is changed and spellstrike will be nerfed, this line is deleted.
  
 And below are some other variant rules provided by Vital and Suppanut
 
