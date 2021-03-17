@@ -208,10 +208,20 @@ Deprecated
 
 Needs to be tested.
 
-- **Self Heal Clause**: All heal (HP recovering) moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself. 
+- **Self Heal Clause** - All heal (HP recovering) moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself as the center. 
+	- Harvest Dance is banned.
+
+Note that the user must be targeted as the center.
+
+```
+  O  
+O U O
+  O
+```
 
 The aim is to provide a choice to remove the old heal clause which is harder to track, and create a different meta which induces different builds.
 
+- **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
 
 ### Reverse mirror match rules
 
