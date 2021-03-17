@@ -221,6 +221,8 @@ O U O
 
 The aim is to provide a choice to remove the old heal clause which is harder to track, and create a different meta which induces different builds.
 
+- **Self Center Clause** - All moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself as the center. 
+	- Harvest Dance is banned.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
 
 ### Reverse mirror match rules
