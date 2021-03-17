@@ -208,7 +208,9 @@ Deprecated
 
 Needs to be tested.
 
-- **Self Heal Clause**: All heal (HP recovering) moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself. Hopefully it can replace the old Heal Clause.
+- **Self Heal Clause**: All heal (HP recovering) moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself. 
+
+The aim is to provide a choice to remove the old heal clause which is harder to track, and create a different meta which induces different builds.
 
 
 ### Reverse mirror match rules
