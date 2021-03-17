@@ -112,7 +112,7 @@ The rules are only based on games around level 18 for now.
     - Half a heal. Consumables used in Art of War are counted as half a heal (bombs are still counted as one heal). (2020/10/13, 11/24)
 	- Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
-    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**.
+    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**. and **Bind** (2021/3/16).
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
 	- Exception: you are allowed to shutdown multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
@@ -201,6 +201,12 @@ Deprecated
 	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
 	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
   - Exception: Black Plume (necro) is not counted.
+  
+### Some clauses
+
+2021/3/17
+
+- **Self Heal Clause**: All heal (HP recovering) moves that can target the user himself must target the user himself.
 
 ### Reverse mirror match rules
 
