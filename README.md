@@ -181,6 +181,10 @@ See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wi
 	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- ~~Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)~~ Since acc formulation is changed and spellstrike will be nerfed, this line is deleted.
  
+After trying all peculiar rules, I am really satisfied with 4 skill rules -- every unit may only equip 4 skills, which offers great balance.
+It's a nod to pokemon, and really makes one to "build" a unit (builds can vary significantly) while consider the synergies with the whole team. It also makes build a team "easier"  (only have to consider 4x12 = 48 skills). 
+
+
 And below are some other variant rules provided by Vital and Suppanut
 
 - no rampart aura/heavy armor/phalanx 
@@ -223,6 +227,8 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 
 - **Self Center Clause** - All moves (including weapons, spells, skills, consumables) that can target the user himself must target the user himself **as the center**. 
 	- Harvest Dance is banned.
+- **Magic Lore Clause** - You may not equip duplicate lores of magic on the party.
+	- For example, if one unit equips fire magic, draco, necros, aow, then other units can't equip those skills.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
 
 ### Reverse mirror match rules
