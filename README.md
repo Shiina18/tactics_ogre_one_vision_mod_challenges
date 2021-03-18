@@ -230,6 +230,13 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 - **Magic Lore Clause** - You may not equip duplicate lores of magic on the party.
 	- For example, if one unit equips fire magic, draco, necros, aow, then other units can't equip those skills.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
+- **Skill Tier Clause** - Some skills take more than 1 slot. It is designed for 4 or 5 skill rules.
+	- 3 slots: Divine Magic (for classes having access to Heal), XX Slayer
+	- 2 slots: Divine Magic (for classes having access to Liberate), Fearful Impact, Fated Circle, Bullseye, Stop Ward, Skills which have guaranteed shutdown effects (e.g. Bloody Mary), Skills that can create obstacles
+	- Exceptions: Wingedmem have 2 fewer slots innately (you can consider that innate flight takes up 2 slots)
+	- For example, if a cleric equips Divne Magic, then he has only 1 slot left if 4 skills are followed.
+
+The aim is to provide a choice to remove some special classes and skill restrictions.
 
 ### Reverse mirror match rules
 
