@@ -79,7 +79,7 @@ The rules are only based on games around level 18 for now.
 
 - **Class Clause**
 	- The player cannot have three units with the same class on a team.
-		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. Instill elements are counted as one skill. (2021/1/21)
+		- If two units are of the same class, they must not use the same type of weapon and have any duplicate skill. Skills like XX 1, XX 2 are counted as one skill. Instill elements are counted as one skill, XX Resonance are one skill. (2021/1/21)
 		- For example, you may have two Tamers in your team, one having Empower Beast, and another one having Empower Dragon, but only one can have Feral Remedy, Tactician, counterhit, etc (no duplicate skill).
     - The player cannot have two demihuman units with the same archtype race (Lizardman, Lamia, etc) on a team, since they look like the same. (2021/2/14)
 		- For example, you may have one Lizardman and one Lamia on your team, but not two Lizardman.
@@ -112,7 +112,7 @@ The rules are only based on games around level 18 for now.
     - Half a heal. Consumables used in Art of War are counted as half a heal (bombs are still counted as one heal). (2020/10/13, 11/24)
 	- Necros are counted as "Cleric" and N = 1.5 x (1 + # of enemy clerics) x [(# of initial units + 1/2 # of summoned units) / 3].
 - **Shutdown Clause** - Player can only put one enemy under shutdown status at a time. 
-    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**. and **Bind** (2021/3/16).
+    - Shutdown status is defined as Sleep, Petrify, Shackle and Stop, **Charm and Bewitched**.
 	- Also, Rattle is banned. I have shown how op are shutdowns in the video [Tactics Ogre OV mod Heavenly General Maitreya in Phorampa Wildwood](https://www.youtube.com/watch?v=U2Q3n5HnjwE).
 	- "At a time" means, when one enemy is shutdown, then you are not allowed to get others shutdown.
 	- Exception: you are allowed to shutdown multiple units in one action (AOE), however of course you can only do this when there is no other shutdown enemy. (2021/1/21)
@@ -231,8 +231,9 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 	- For example, if one unit equips fire magic, draco, necros, aow, then other units can't equip those skills.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
 - **Skill Tier Clause** - Some skills take more than 1 slot. It is designed for 4 or 5 skill rules.
-	- 3 slots: Divine Magic (for classes having access to Heal), XX Slayer
-	- 2 slots: Divine Magic (for classes having access to Liberate), Fearful Impact, Fated Circle, Bullseye, Stop Ward, Skills which have guaranteed shutdown effects (e.g. Bloody Mary), Skills that can create obstacles
+	- Still banned: Octopus, Dragon/Beast Slayer
+	- 3 slots: Divine Magic (for classes having access to Heal, nerf clerics)
+	- 2 slots: Divine Magic (for classes having access to Liberate, nerf knights), Fearful Impact, Fated Circle, Bullseye, Stop Ward, Skills which have guaranteed shutdown effects (e.g. Bloody Mary and a skill that petrifies the undead; only two iirc), Skills that can create obstacles
 	- Exceptions: Wingedmem have 2 fewer slots innately (you can consider that innate flight takes up 2 slots)
 	- For example, if a cleric equips Divne Magic, then he has only 1 slot left if 4 skills are followed.
 
