@@ -171,13 +171,13 @@ These are rules adapted from what I used in 2019, and at that time I even banned
 See [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Meta-under-common-rules---optional-rules) for the meta under these rules.
 
 - **Common Rules**
-- **5 Skill Clause** - Every unit can only have up to 5 skills equipped.
+- **5 or 4 Skill Clause** - Every unit can only have up to 5 skills equipped.
 	- Now that I considered about it, **4 skills** should be enough. (2021/3/13)
 - **Rank Clause** - Ranks of all skills of players are locked at rank 4 (with the help of cheatcodes).
   - Ranks of all skills of enemies are set rank 6 or 8. (optional)
 - **Class Clause Plus** - Banned some best (and niche) classes. (2020/12/29)
 	- Cleric, Priest, Lord, Paladin, Astromancer, Knight Commander are banned.
-	- Knight, Terror Knight are now counted as special classes.
+	- Knight, ~~Terror Knight~~ are now counted as special classes.
 	- A team cannot have more than 1 unit with special classes in a 9-12 unit team, 0 in 1-8 unit team. (Class Clause in Common Rules)
 	- ~~Warlock isn't banned. However, Stormbound, Petrifog, Rattle, Sludgebind, Brimstone, Timestop, Charm, Shackle, Petriburst, Stasis are banned. (Oblivion and Deadscream is allowed to use.)~~ Since acc formulation is changed and spellstrike will be nerfed, this line is deleted.
  
@@ -249,7 +249,7 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 
 Hopefully, it can forces me to use classes that I didn't like much and to try new combinations.
 
-- **5 Skill Rules**
+- **5 or 4 Skill Rules**
 - **Reverse Mirror Match Clause** - You may not use classes that are in the enemy team.
 	- For example, if there is any Warrior in the enemy team, you may not use Warrior in this battle.
 	- Reinforcements may not be considered (you can if you want). Sometimes the initial party of enemies is random to some extent, then all possible classes should not be used.
