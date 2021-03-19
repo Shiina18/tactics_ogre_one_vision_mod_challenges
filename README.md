@@ -197,6 +197,8 @@ And below are some other variant rules provided by Vital and Suppanut
 
 Deprecated
 
+Below are hard to maintain and track.
+
 - **2 Spell Clause** (optional) - Every 2 spells take up 1 slot. (2021/1/4, 1/6, 1/20)
   - "Magic" includes elem magic, draconic, aow, necro.
   - It is inconvenient to unlearn all spells using a cheatcode, then equip what you need, so instead you may write a list beforehand to show which will be used and attach it in the video.
@@ -205,6 +207,15 @@ Deprecated
 	- build 2: skill 1, skill 2, skill 3, Earth Magic (3 spells), Air Magic (1 spells). 4 spells take up 2 slots.
 	- build 3: skill 1, skill 2, skill 3, Earth Magic (4 spells), blank. 4 spells take up 2 slots, so there is no room for 5th skill.
   - Exception: Black Plume (necro) is not counted.
+  
+- **Skill Tier Clause** - Some skills take more than 1 slot. It is designed for 4 or 5 skill rules. Might suit better for 5 skill rules. 5 skill clause might be better called 5 slot clause.
+	- Still banned: Octopus, Dragon/Beast Slayer
+	- 3 slots: Divine Magic (for classes having access to Heal, nerf clerics), Stop Ward
+	- 2 slots: Divine Magic (for classes having access to Liberate, nerf knights), Fearful Impact, Fated Circle, Bullseye, Skills which have guaranteed shutdown effects (e.g. Bloody Mary and a skill that petrifies the undead; only two iirc), Skills that can create obstacles
+	- Exceptions: Wingedmen have 2 fewer slots innately (you can consider that innate flight takes up 2 slots)
+	- For example, if a cleric equips Divne Magic, then he has only 1 slot left if 4 skills are followed.
+
+~~The aim is to provide a choice to remove some special classes and skill restrictions.~~ 
   
 ### Some clauses
 
@@ -230,14 +241,7 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 - **Magic Lore Clause** - You may not equip duplicate lores of magic on the party.
 	- For example, if one unit equips fire magic, draco, necros, aow, then other units can't equip those skills.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
-- **Skill Tier Clause** - Some skills take more than 1 slot. It is designed for 4 or 5 skill rules.
-	- Still banned: Octopus, Dragon/Beast Slayer
-	- 3 slots: Divine Magic (for classes having access to Heal, nerf clerics)
-	- 2 slots: Divine Magic (for classes having access to Liberate, nerf knights), Fearful Impact, Fated Circle, Bullseye, Stop Ward, Skills which have guaranteed shutdown effects (e.g. Bloody Mary and a skill that petrifies the undead; only two iirc), Skills that can create obstacles
-	- Exceptions: Wingedmem have 2 fewer slots innately (you can consider that innate flight takes up 2 slots)
-	- For example, if a cleric equips Divne Magic, then he has only 1 slot left if 4 skills are followed.
 
-The aim is to provide a choice to remove some special classes and skill restrictions.
 
 ### Reverse mirror match rules
 
