@@ -241,6 +241,9 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 - **Magic Lore Clause** - You may not equip duplicate lores of magic on the party.
 	- For example, if one unit equips fire magic, draco, necros, aow, then other units can't equip those skills.
 - **No Obstacle Clause** - You may not put obstacles (e.g. phantoms) on the battlefield.
+- **Timer Clause**
+	- Make an ally commit suicide at the beginning, then make another commit suicide before there is no incap unit on the battlefield. So the longer the player plays, the fewer units he will have on the battlefield.
+	- Another way to implement a timer is to create a very heavy gear using cheats then make the unit commit suicide, and try to finish the stage before the countdown runs out.
 
 
 ### Reverse mirror match rules
