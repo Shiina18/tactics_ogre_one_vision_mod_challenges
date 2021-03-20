@@ -244,7 +244,7 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 - **Timer Clause**
 	- Make an ally commit suicide at the beginning, then make another commit suicide before there is no incap unit on the battlefield. So the longer the player plays, the fewer units he will have on the battlefield.
 	- Another way to implement a timer is to create a very heavy gear using cheats then make the unit commit suicide, and try to finish the stage before the countdown runs out.
-
+	- A more simpler way is to modify RT of a unit so that it takes years to take the next turn. In the meantime, making the unit 0 HP so that others won't attack him and he is not affected by others, or just give him invisibility.
 
 ### Reverse mirror match rules
 
