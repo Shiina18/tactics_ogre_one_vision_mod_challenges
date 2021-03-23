@@ -245,6 +245,16 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 	- Make an ally commit suicide at the beginning, then make another commit suicide before there is no incap unit on the battlefield. So the longer the player plays, the fewer units he will have on the battlefield.
 	- Another way to implement a timer is to create a very heavy gear using cheats then make the unit commit suicide, and try to finish the stage before the countdown runs out.
 	- A more simpler way is to modify RT of a unit so that it takes years to take the next turn. In the meantime, making the unit 0 HP so that others won't attack him and he is not affected by others, or just give him invisibility.
+- **Interval Heal Clause** - See examples below. You may only use heal moves or use consumables when (1) there is an enemy X doing those moves before your unit Y and (2) there is no ally between Y and the enemy X.
+	- Say A_1, A_2, ... are allies, B_1, B_2, ... are enemies. 
+	- Turn order A_1, B_1 (heal), A_2 (can heal), A_3 (cannot)
+	- A_1, B_1 (heal), B_2, A_2 can, A_3 not
+	- A_1, B_1 (no heal), A_2 not, A_3 not
+	- A_1, B_1 (heal), A_2 can, B_2 (no heal), A_3 not
+	- It means you always use less heals or consumables than AI. And if you shut down clerics, you might also not have the chance to use heal moves because of that.
+	- If this clause is applied, then the old heal clause may be removed. It should be easier to track, and restrict heals heavily.
+	
+Random links: [Smogon-wide Clauses](https://www.smogon.com/xy/articles/clauses), [Clauses and Banlists](https://www.smogon.com/dw/banlist/)
 
 ### Reverse mirror match rules
 
