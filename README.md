@@ -6,16 +6,6 @@ Check some useful pages [here](https://github.com/Shiina18/tactics_ogre_one_visi
 
 This repo stores some saves just before interesting battles. In order to have fun, remember to read the [Common Rules](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges#common-rules) below and readme.txt attached for every save. 
 
-Frankly speaking, it is an easy game if you are familiar with the mechanism and available tools. It only starts to get challenging when you impose additional restrictions.
-
-Metric for the difficulty of challenge: 
-
-- how long you need to finish a challenge
-- how hard you have to think about it
-- how many tricks and critical points you found during the process
-
-The basic principle is to use strictly restricted resource and limited tools to get all enemies down.
-
 If you find it comfortable and easy to finish a "challenge", then it's not a challenge at all. Try more restrictive rules. **Feel free to apply your own rules.**
 
 You are welcome to contribute your own saves with your rules.
@@ -59,6 +49,8 @@ You may refer to `some cheatcodes I used.ini` in this repo for some handy cheatc
 ## Common Rules
 
 Common rules should always be followed.
+
+See new and eaiser to track rule [here](https://github.com/Shiina18/tactics_ogre_one_vision_mod_challenges/wiki/Experiment-Rules)
 
 0.970d
 
@@ -245,14 +237,15 @@ The aim is to provide a choice to remove the old heal clause which is harder to 
 	- Make an ally commit suicide at the beginning, then make another commit suicide before there is no incap unit on the battlefield. So the longer the player plays, the fewer units he will have on the battlefield.
 	- Another way to implement a timer is to create a very heavy gear using cheats then make the unit commit suicide, and try to finish the stage before the countdown runs out.
 	- A more simpler way is to modify RT of a unit so that it takes years to take the next turn. In the meantime, making the unit 0 HP so that others won't attack him and he is not affected by others, or just give him invisibility.
-- **Interval Heal Clause** - See examples below. You may only use heal moves or use consumables when (1) there is an enemy X doing those moves before your unit Y and (2) there is no ally between Y and the enemy X.
-	- Say A_1, A_2, ... are allies, B_1, B_2, ... are enemies. 
-	- Turn order A_1, B_1 (heal), A_2 (can heal), A_3 (cannot)
-	- A_1, B_1 (heal), B_2, A_2 can, A_3 not
-	- A_1, B_1 (no heal), A_2 not, A_3 not
-	- A_1, B_1 (heal), A_2 can, B_2 (no heal), A_3 not
+- **Interval Heal Clause** - You may only use heal moves or use consumables when (1) there is an enemy X doing those moves before your unit Y and (2) there is no ally using those moves between Y and the enemy X.
+	- Additionally, You may use heal moves or use consumables when (1) there is a boss enemy X doing any main move (attack, spell, special skill, item/consumable) and (2) there is no ally using those moves between Y and the enemy X.
+	- Say A_1, A_2, ... are allies, B_1, B_2, ... are enemies. Turn order A_1, B_1 (heal/consumables), A_2 (can use heal/consumables), A_3 (cannot if A_2 did; can if A_2 didn't)
 	- It means you always use less heals or consumables than AI. And if you shut down clerics, you might also not have the chance to use heal moves because of that.
 	- If this clause is applied, then the old heal clause may be removed. It should be easier to track, and restrict heals heavily.
+- **Two Clause** 
+	- You may not have more than 2 same skills on the team. For gears with use effects, you may not have more than 2 same use effects on the team.
+	- For example, you may only have up to 2 units with AoW equipped. You may only equip up to 2 dagger sidegrade (spellstrike), 2 books (mediate), 2 hovering boots (hover), etc. which have the same use effect.
+	- If this clause is applied, then the old weapon clause may be removed.
 	
 Random links: [Smogon-wide Clauses](https://www.smogon.com/xy/articles/clauses), [Clauses and Banlists](https://www.smogon.com/dw/banlist/)
 
