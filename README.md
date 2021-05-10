@@ -10,8 +10,6 @@ If you find it comfortable and easy to finish a "challenge", then it's not a cha
 
 You are welcome to contribute your own saves with your rules.
 
-添加了中文翻译. (2020/12/28)
-
 ## Directory Structure
 
 Every save may contain following files:
@@ -414,86 +412,6 @@ B
 ```
 
 Legal. Even if E is undead and can't move to the tile next to A, B is legal since there is a "path" from B to A.
-
-
-## 通用规则 (中文版)
-
-2020/12/28
-
-最新版以英文为主, 翻译不会及时更新, 一些繁杂的规则没有进一步翻译.
-
-目前规则只适用于一周目.
-
-其中划掉的规则可以视你个人喜好遵守. 
-
-虽然看起来很繁琐, 但是原则应该还是很清楚的, 就是让玩家不能获得过多优势并且限制了无限资源 (回血). 另外还有一些有趣的可选规则, 见 optional rules, 不再翻译.
-
-规则的总体目标是让玩家免去没有技术含量的工作, 专注于战术的构筑. 通用规则的目标是迫使玩家思考, 使游戏不至于太简单, 但依然留有绝大部分可以利用的机制, 使战术选择面非常丰富. 当玩家熟练掌握了游戏机制后, 可以参考 optional rules, 提高难度.
-
-**如果你没有竞技游戏经验 (比赛上位) 或者没有认真打过高难度战棋, 那么可能无法理解为什么要这么做, 这个规则不适合你.**
-
-- 职业条款
-  - 队伍中不能有重复职业.
-    - 所有的龙视为一个职业.
-  - 10 人队最多带 2 个特殊职业, 12 人队 3 个. 所有翼人, 天使骑士, 不死族都视为特殊职业 (不论他本身是什么职业).
-  - 章鱼的使用被限制了, 详见英文版.
-  - Slayer 技能禁止 (杀龙, 杀兽).
-  - ~~主角必须是战士~~.
-- 武器条款 
-  - ~~同类武器只能有一个人使用. Sidegrades 视为不同类武器. 比如有人使用单手剑, 那么其他队友就不能使用单手剑; 但是队友可以使用单手剑的 sidegrade, 即单手剑中的双手版本.~~
-  - 同一类武器, 队伍中最多只能有两个人使用. (把原版本和 sidegrade 视为同类武器)
-    - Boulders (大石头), Blowguns (吹箭) and Throwing Weapons (投掷武器) 视为不同类武器.
-  - 当攻击不死族时, 禁止使用 lv.10 的武器以及名字带有 "Baldur/Silver xx" 的武器.
-- 目标条款
-  - 如果有增援,
-    - 当敌人数量 <= min{5, 我方人数} 时, 才能击杀 boss.
-  - 如果没有增援,
-    - 只有杀完所有其他敌人才允许击杀 boss.
-- 负伤条款 - 人物不能掉心, 即在倒下后倒计时结束前转移走或者结束战斗.
-- 回复条款 - 消耗品, 回复魔法/技能/武器的使用次数 <= 1.5 x (1 + 敌人僧侣数量) x [敌人总数 / 3]. 这个上界记为 N, 其中 [y] 表示 y 的整数部分.
-  - 比如敌人队 11 人, 2 个僧侣, 则 N = 1.5 x (1+2) x [11/3] = 1.5 x 3 x 3 = 13.5.
-  - 同一种消耗品一场战斗最多使用 5 次. 重生石 (salvation gems) 只能在剧情需要的时候使用.
-  - 消耗品不论是否回血, 每使用一个就算一个回复动作.
-  - 回复魔法/技能/武器包括 Heal, Allheal (Light AOE Heal), Harvest Dance (Art of War), Purify (Water AOE Heal + Cleanse), Time of Need (White Knight AOE TP to HP), etc.
-  - 例外. 给予 Renewal 状态的不视回复动作 (比如骑士的技能). Lancet (Dark HP to HP) 不算, 因为他仅仅是 HP 转移. Drain Heart (Dark) 以及类似地从别人身上吸血的都不算.
-  - 半个回复动作. 使用 TP 并且不是 AOE 的回复行动视为半个回复动作, 比如 Feral Remedy. Kirin Blowgun 也视为半个.
-  - 半个回复动作. Art of War 里用到的消耗品均视为半个 (bombs 除外).
-  - Necros (死灵师) 视为 "Cleric" 此时 N = 1.5 x (1 + 敌人僧侣数) x [(敌人初始单位数量 + 1/2 召唤单位数量) / 3].
-- 硬控条款
-  - 硬控 (shutdown) 定义为: Sleep 睡觉, Petrify 石化, Shackle (忘了中文叫啥) and Stop 行动停止, Charm and Bewitched 魅惑.
-  - Rattle 禁止 (雷系控制技能).
-  - 当有敌人处于硬控状态时, 你不能使其他敌人也被硬控 (如果此时有新的敌人被硬控, 直接判负).
-  - 特别地, AOE 控制技能最多一次控 2 名敌人. 
-  - 注意, 被你魅惑的敌人可能会硬控其他敌人, 此时会直接判负.
-- 技能条款
-  - 禁止装备 Stop Ward.
-  - If a class can learn a skill by himself, then he can't equip the skill if the learning level is higher than class' current level. 比如说, 在 lv 18 时, 你的魔剑士不允许装备 Clarity 2 (即从其他职业继承过来), 因为这个职业可以在 lv 21 学习它.
-  - Slayer 技能禁止.
-- 障碍物条款
-  - 详见英文版. 主旨是不能把敌人关在封闭区域内, 不能用障碍物把路堵死.
-- 装饰品条款
-  - 只有两个主角的项链, 以及 warrior/defender ring 和 Jewelry 1 中除了 (warrior/defender band) 的指环可以使用. 即 lv. 8 以上的高级指环均禁止.
-- 刷刷刷条款
-  - 队伍最高等级 <= 敌方队伍最低等级 (杂兵的等级)
-  - 队伍技能最高等级 <= 敌方技能最低等级 (可选, 一般需要金手指调整). 比如对方有 rank 2 的技能, 则你所有的技能都不能超过 rank 2.
-  - 每个单位装备的技能数 <= 敌方单位最小技能数.
-  - 身体交换禁止.  
-- 塔罗牌条款
-  - 禁止使用命运之轮倒带. 底线是不能用这个机制来改变随机结果.
-  - 禁止吃塔罗牌等各种东西增加属性. 打开下面的金手指.
-  
-```
-_C1 No Tarot Stat Bonus
-_L 0x20025C28 0x34060000
-_L 0x20025C34 0x34060000
-```
-
-可选规则
-
-选两条推荐的规则
-
-- 一个人只装备 5 个技能.
-- 每次战斗少上 2-3 个人. 比如最多出 12 人, 只上 9-10 个人.
 
 ## License
 
